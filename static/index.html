@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Warehouse Voice Analyst</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header>
+  <h1>Warehouse Voice Analyst</h1>
+  <p class="tagline">Ask plain English questions about warehouse sales, stock, and returns. Get a spoken style answer, a chart, and the SQL behind it.</p>
+  <p class="badge">Simulated Alexa+ experience &middot; Sample data only &middot; Runs fully offline</p>
+</header>
+
+<main>
+  <section class="panel">
+    <h2>Try an example</h2>
+    <div class="chips">
+      <button class="chip" data-q="What are the top 5 selling products?">What are the top 5 selling products?</button>
+      <button class="chip" data-q="Show me sales by region">Show me sales by region</button>
+      <button class="chip" data-q="What is the sales trend by month?">What is the sales trend by month?</button>
+      <button class="chip" data-q="Which products are low on stock?">Which products are low on stock?</button>
+      <button class="chip" data-q="Which products have the highest return rate?">Which products have the highest return rate?</button>
+      <button class="chip" data-q="What can you do?">What can you do?</button>
+    </div>
+    <label class="voice-toggle">
+      <input type="checkbox" id="voiceToggle"> Speak answers out loud (browser speech, simulation feature)
+    </label>
+  </section>
+
+  <section class="panel">
+    <div id="chatLog" class="chat-log" aria-live="polite"></div>
+    <form id="askForm" class="ask-row">
+      <input id="questionInput" type="text" placeholder="Type a question, for example: sales trend for the Vortex Blender Pro" autocomplete="off">
+      <button type="submit">Ask</button>
+    </form>
+  </section>
+
+  <section class="panel" id="chartPanel" hidden>
+    <h2>Chart</h2>
+    <div id="chartBox"></div>
+  </section>
+
+  <section class="panel" id="sqlPanel" hidden>
+    <h2>Query the agent would run on the warehouse</h2>
+    <pre id="sqlBox"></pre>
+    <p id="explainBox" class="explain"></p>
+  </section>
+</main>
+
+<footer>
+  <p>Local demo: a deterministic rule engine answers from sample data, so it runs offline with zero setup.
+  In production this maps to Amazon Bedrock for language, an MCP server for the Alexa+ track, and AWS Lambda in front of a real warehouse such as Snowflake or Amazon Redshift.</p>
+</footer>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
