@@ -17,6 +17,12 @@ The language layer is a small deterministic rule engine written in Python,
 not a live large language model, and the data is sample data generated for
 this project. No real Amazon Bedrock call happens in this demo.
 
+One part is not a stand-in. The MCP server in this repo (`mcp_server.py`)
+is a real Model Context Protocol server. It speaks the Streamable HTTP
+transport, answers initialize, tools/list, and tools/call, and runs the
+same query engine as the web app. What is still simulated is the Alexa+
+device conversation and the Bedrock language layer in front of it.
+
 That is on purpose. Judges can clone the repo, run one command, and see the
 full experience offline. The README section "How this maps to Alexa+ and AWS
 in production" explains exactly which piece each local part stands in for.
@@ -99,11 +105,89 @@ Response shape:
 
 There is also a health check at `GET /api/health`.
 
+## Run the MCP server
+
+The repo also includes a real Model Context Protocol server,
+`mcp_server.py`. It is the piece Alexa+ would call in production, and
+it uses only the Python standard library, same as the web server.
+
+```bash
+python3 mcp_server.py
+```
+
+It listens on port 8001 and prints its tool list on start. The endpoint
+is:
+
+```
+http://localhost:8001/mcp
+```
+
+To use a different port: `PORT=9001 python3 mcp_server.py` or
+`python3 mcp_server.py --port 9001`.
+
+The tools, all backed by the same query engine and the same sample data
+as the web app, so the answers can never drift apart:
+
+| Tool | What it answers |
+| --- | --- |
+| `top_products` | Top selling products by revenue. Optional `limit` (1 to 10) and `region`. |
+| `sales_by_region` | Revenue grouped by region. Optional `product`. |
+| `monthly_trend` | Revenue by month, in date order. Optional `product` and `region`. |
+| `low_stock` | Products at or below their reorder point. Optional `product`. |
+| `return_rates` | Return rate per product, with the most common reason. Optional `product`. |
+| `ask_warehouse` | A plain English `question`, routed by the same rule engine the web app uses. |
+
+Try it with curl. First the handshake:
+
+```bash
+curl -X POST http://localhost:8001/mcp \
+  -H "Content-Type: application/json" \
+  -d '{"jsonrpc": "2.0", "id": 1, "method": "initialize", "params": {"protocolVersion": "2025-06-18", "capabilities": {}, "clientInfo": {"name": "curl", "version": "1.0"}}}'
+```
+
+Then list the tools:
+
+```bash
+curl -X POST http://localhost:8001/mcp \
+  -H "Content-Type: application/json" \
+  -d '{"jsonrpc": "2.0", "id": 2, "method": "tools/list"}'
+```
+
+Then call one:
+
+```bash
+curl -X POST http://localhost:8001/mcp \
+  -H "Content-Type: application/json" \
+  -d '{"jsonrpc": "2.0", "id": 3, "method": "tools/call", "params": {"name": "top_products", "arguments": {"limit": 3}}}'
+```
+
+A tool call returns the spoken style summary as text, plus the SQL and
+the chart data in the structured content, so a client can speak the
+summary and draw the chart. Bad input, like an unknown region, comes
+back with `isError` set to true and a plain explanation.
+
+There is a self test that runs the whole flow and checks the MCP
+answers against the query engine directly:
+
+```bash
+python3 test_mcp.py
+```
+
+How this fits the production picture: Alexa+ hears the question,
+Amazon Bedrock does the language understanding and picks the tool, and
+the call lands on this MCP server, which runs the approved query and
+returns the result. The server code is the same in both worlds. Locally
+it reads the sample data so anyone can test it offline. In production
+the same server can sit behind AWS Lambda and API Gateway, with the
+engine pointed at the real warehouse tables instead of the sample data.
+
 ## How it is put together
 
 | File | What it does |
 | --- | --- |
 | `server.py` | Web server and API. Python standard library only (`http.server`). |
+| `mcp_server.py` | A real MCP server (Streamable HTTP, JSON-RPC 2.0) on port 8001. Exposes the query engine as six tools at `POST /mcp`. |
+| `test_mcp.py` | Self test for the MCP server. Runs initialize, tools/list, and tools/call, and checks the answers against the query engine. |
 | `query_engine.py` | The rule engine. Matches a question to a family, then aggregates the sample data and builds the answer, chart data, SQL, and explanation. |
 | `data_gen.py` | Generates the sample dataset with a fixed random seed, so every judge sees the same numbers. |
 | `data/` | `sample_data.json` plus `sales.csv`, `inventory.csv`, and `returns.csv`. Sample data only, clearly labeled. |
@@ -119,18 +203,22 @@ return reason.
 The demo is a stand-in for this production design:
 
 1. **Alexa+ front door.** The user speaks to Alexa+. In the full Alexa+
-   track you would build a self hosted MCP server (Streamable HTTP, MCP
-   spec 2025-11-25 or later) or an Agent Skill. This demo uses the
-   simulated experience path the rules allow: a web app that shows the
-   same conversation.
+   track the conversation runs through a self hosted MCP server
+   (Streamable HTTP, MCP spec 2025-11-25 or later) or an Agent Skill.
+   The web app in this repo takes the simulated experience path the
+   rules allow, and the repo also ships the real MCP server
+   (`mcp_server.py`), so both halves of that picture are in the code.
 2. **Amazon Bedrock for language.** In production, Bedrock understands the
    question, picks the right tool, and turns the result rows into a natural
    spoken answer. In the demo, `query_engine.py` does this job with plain
    pattern matching so it runs offline. This documented Bedrock design is
    the AWS Builder mini challenge entry. The demo itself makes no AWS call.
-3. **MCP server and AWS Lambda for the query.** The MCP tool call would hit
-   a small Lambda function that holds the approved SQL templates, fills in
-   the product or region the user named, and runs the query.
+3. **MCP server for the query, Lambda for hosting.** The MCP tool layer
+   is built. `mcp_server.py` holds the approved query tools, fills in
+   the product or region the user named, and returns the answer, the
+   chart data, and the SQL. For the demo it runs locally on your
+   machine. In production the same server can sit behind AWS Lambda
+   and API Gateway, with the engine pointed at the real warehouse.
 4. **A real warehouse behind it.** The SQL shown in the app is written for a
    warehouse table layout (`warehouse.sales`, `warehouse.inventory`,
    `warehouse.returns`). In production that is Snowflake or Amazon Redshift,
