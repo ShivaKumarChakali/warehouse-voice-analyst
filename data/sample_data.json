@@ -1,0 +1,4854 @@
+{
+ "meta": {
+  "label": "Sample data only, generated for this demo. Not real sales data.",
+  "months": [
+   "2026-01",
+   "2026-02",
+   "2026-03",
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08",
+   "2026-09"
+  ],
+  "regions": [
+   "North",
+   "South",
+   "East",
+   "West",
+   "Central"
+  ],
+  "product_count": 12
+ },
+ "sales": [
+  {
+   "month": "2026-01",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "North",
+   "units": 503,
+   "revenue": 45264.97
+  },
+  {
+   "month": "2026-01",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "South",
+   "units": 378,
+   "revenue": 34016.22
+  },
+  {
+   "month": "2026-01",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "East",
+   "units": 372,
+   "revenue": 33476.28
+  },
+  {
+   "month": "2026-01",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "West",
+   "units": 423,
+   "revenue": 38065.77
+  },
+  {
+   "month": "2026-01",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "Central",
+   "units": 359,
+   "revenue": 32306.41
+  },
+  {
+   "month": "2026-02",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "North",
+   "units": 523,
+   "revenue": 47064.77
+  },
+  {
+   "month": "2026-02",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "South",
+   "units": 507,
+   "revenue": 45624.93
+  },
+  {
+   "month": "2026-02",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "East",
+   "units": 360,
+   "revenue": 32396.4
+  },
+  {
+   "month": "2026-02",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "West",
+   "units": 464,
+   "revenue": 41755.36
+  },
+  {
+   "month": "2026-02",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "Central",
+   "units": 297,
+   "revenue": 26727.03
+  },
+  {
+   "month": "2026-03",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "North",
+   "units": 468,
+   "revenue": 42115.32
+  },
+  {
+   "month": "2026-03",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "South",
+   "units": 468,
+   "revenue": 42115.32
+  },
+  {
+   "month": "2026-03",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "East",
+   "units": 362,
+   "revenue": 32576.38
+  },
+  {
+   "month": "2026-03",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "West",
+   "units": 445,
+   "revenue": 40045.55
+  },
+  {
+   "month": "2026-03",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "Central",
+   "units": 372,
+   "revenue": 33476.28
+  },
+  {
+   "month": "2026-04",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "North",
+   "units": 533,
+   "revenue": 47964.67
+  },
+  {
+   "month": "2026-04",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "South",
+   "units": 440,
+   "revenue": 39595.6
+  },
+  {
+   "month": "2026-04",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "East",
+   "units": 446,
+   "revenue": 40135.54
+  },
+  {
+   "month": "2026-04",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "West",
+   "units": 550,
+   "revenue": 49494.5
+  },
+  {
+   "month": "2026-04",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "Central",
+   "units": 312,
+   "revenue": 28076.88
+  },
+  {
+   "month": "2026-05",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "North",
+   "units": 590,
+   "revenue": 53094.1
+  },
+  {
+   "month": "2026-05",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "South",
+   "units": 523,
+   "revenue": 47064.77
+  },
+  {
+   "month": "2026-05",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "East",
+   "units": 425,
+   "revenue": 38245.75
+  },
+  {
+   "month": "2026-05",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "West",
+   "units": 463,
+   "revenue": 41665.37
+  },
+  {
+   "month": "2026-05",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "Central",
+   "units": 427,
+   "revenue": 38425.73
+  },
+  {
+   "month": "2026-06",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "North",
+   "units": 591,
+   "revenue": 53184.09
+  },
+  {
+   "month": "2026-06",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "South",
+   "units": 498,
+   "revenue": 44815.02
+  },
+  {
+   "month": "2026-06",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "East",
+   "units": 451,
+   "revenue": 40585.49
+  },
+  {
+   "month": "2026-06",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "West",
+   "units": 657,
+   "revenue": 59123.43
+  },
+  {
+   "month": "2026-06",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "Central",
+   "units": 446,
+   "revenue": 40135.54
+  },
+  {
+   "month": "2026-07",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "North",
+   "units": 697,
+   "revenue": 62723.03
+  },
+  {
+   "month": "2026-07",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "South",
+   "units": 622,
+   "revenue": 55973.78
+  },
+  {
+   "month": "2026-07",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "East",
+   "units": 533,
+   "revenue": 47964.67
+  },
+  {
+   "month": "2026-07",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "West",
+   "units": 697,
+   "revenue": 62723.03
+  },
+  {
+   "month": "2026-07",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "Central",
+   "units": 427,
+   "revenue": 38425.73
+  },
+  {
+   "month": "2026-08",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "North",
+   "units": 593,
+   "revenue": 53364.07
+  },
+  {
+   "month": "2026-08",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "South",
+   "units": 586,
+   "revenue": 52734.14
+  },
+  {
+   "month": "2026-08",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "East",
+   "units": 499,
+   "revenue": 44905.01
+  },
+  {
+   "month": "2026-08",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "West",
+   "units": 619,
+   "revenue": 55703.81
+  },
+  {
+   "month": "2026-08",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "Central",
+   "units": 415,
+   "revenue": 37345.85
+  },
+  {
+   "month": "2026-09",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "North",
+   "units": 635,
+   "revenue": 57143.65
+  },
+  {
+   "month": "2026-09",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "South",
+   "units": 472,
+   "revenue": 42475.28
+  },
+  {
+   "month": "2026-09",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "East",
+   "units": 454,
+   "revenue": 40855.46
+  },
+  {
+   "month": "2026-09",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "West",
+   "units": 536,
+   "revenue": 48234.64
+  },
+  {
+   "month": "2026-09",
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "Central",
+   "units": 364,
+   "revenue": 32756.36
+  },
+  {
+   "month": "2026-01",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 275,
+   "revenue": 17737.5
+  },
+  {
+   "month": "2026-01",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 240,
+   "revenue": 15480.0
+  },
+  {
+   "month": "2026-01",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 230,
+   "revenue": 14835.0
+  },
+  {
+   "month": "2026-01",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 297,
+   "revenue": 19156.5
+  },
+  {
+   "month": "2026-01",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 199,
+   "revenue": 12835.5
+  },
+  {
+   "month": "2026-02",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 295,
+   "revenue": 19027.5
+  },
+  {
+   "month": "2026-02",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 256,
+   "revenue": 16512.0
+  },
+  {
+   "month": "2026-02",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 236,
+   "revenue": 15222.0
+  },
+  {
+   "month": "2026-02",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 333,
+   "revenue": 21478.5
+  },
+  {
+   "month": "2026-02",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 223,
+   "revenue": 14383.5
+  },
+  {
+   "month": "2026-03",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 327,
+   "revenue": 21091.5
+  },
+  {
+   "month": "2026-03",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 260,
+   "revenue": 16770.0
+  },
+  {
+   "month": "2026-03",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 279,
+   "revenue": 17995.5
+  },
+  {
+   "month": "2026-03",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 272,
+   "revenue": 17544.0
+  },
+  {
+   "month": "2026-03",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 212,
+   "revenue": 13674.0
+  },
+  {
+   "month": "2026-04",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 373,
+   "revenue": 24058.5
+  },
+  {
+   "month": "2026-04",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 310,
+   "revenue": 19995.0
+  },
+  {
+   "month": "2026-04",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 273,
+   "revenue": 17608.5
+  },
+  {
+   "month": "2026-04",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 329,
+   "revenue": 21220.5
+  },
+  {
+   "month": "2026-04",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 250,
+   "revenue": 16125.0
+  },
+  {
+   "month": "2026-05",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 362,
+   "revenue": 23349.0
+  },
+  {
+   "month": "2026-05",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 280,
+   "revenue": 18060.0
+  },
+  {
+   "month": "2026-05",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 237,
+   "revenue": 15286.5
+  },
+  {
+   "month": "2026-05",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 302,
+   "revenue": 19479.0
+  },
+  {
+   "month": "2026-05",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 216,
+   "revenue": 13932.0
+  },
+  {
+   "month": "2026-06",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 351,
+   "revenue": 22639.5
+  },
+  {
+   "month": "2026-06",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 398,
+   "revenue": 25671.0
+  },
+  {
+   "month": "2026-06",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 354,
+   "revenue": 22833.0
+  },
+  {
+   "month": "2026-06",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 347,
+   "revenue": 22381.5
+  },
+  {
+   "month": "2026-06",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 280,
+   "revenue": 18060.0
+  },
+  {
+   "month": "2026-07",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 382,
+   "revenue": 24639.0
+  },
+  {
+   "month": "2026-07",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 405,
+   "revenue": 26122.5
+  },
+  {
+   "month": "2026-07",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 322,
+   "revenue": 20769.0
+  },
+  {
+   "month": "2026-07",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 351,
+   "revenue": 22639.5
+  },
+  {
+   "month": "2026-07",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 253,
+   "revenue": 16318.5
+  },
+  {
+   "month": "2026-08",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 368,
+   "revenue": 23736.0
+  },
+  {
+   "month": "2026-08",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 306,
+   "revenue": 19737.0
+  },
+  {
+   "month": "2026-08",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 306,
+   "revenue": 19737.0
+  },
+  {
+   "month": "2026-08",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 387,
+   "revenue": 24961.5
+  },
+  {
+   "month": "2026-08",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 244,
+   "revenue": 15738.0
+  },
+  {
+   "month": "2026-09",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 339,
+   "revenue": 21865.5
+  },
+  {
+   "month": "2026-09",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 389,
+   "revenue": 25090.5
+  },
+  {
+   "month": "2026-09",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 307,
+   "revenue": 19801.5
+  },
+  {
+   "month": "2026-09",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 311,
+   "revenue": 20059.5
+  },
+  {
+   "month": "2026-09",
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 222,
+   "revenue": 14319.0
+  },
+  {
+   "month": "2026-01",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 182,
+   "revenue": 21658.0
+  },
+  {
+   "month": "2026-01",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 196,
+   "revenue": 23324.0
+  },
+  {
+   "month": "2026-01",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 185,
+   "revenue": 22015.0
+  },
+  {
+   "month": "2026-01",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 193,
+   "revenue": 22967.0
+  },
+  {
+   "month": "2026-01",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 125,
+   "revenue": 14875.0
+  },
+  {
+   "month": "2026-02",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 205,
+   "revenue": 24395.0
+  },
+  {
+   "month": "2026-02",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 223,
+   "revenue": 26537.0
+  },
+  {
+   "month": "2026-02",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 177,
+   "revenue": 21063.0
+  },
+  {
+   "month": "2026-02",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 232,
+   "revenue": 27608.0
+  },
+  {
+   "month": "2026-02",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 164,
+   "revenue": 19516.0
+  },
+  {
+   "month": "2026-03",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 187,
+   "revenue": 22253.0
+  },
+  {
+   "month": "2026-03",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 213,
+   "revenue": 25347.0
+  },
+  {
+   "month": "2026-03",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 191,
+   "revenue": 22729.0
+  },
+  {
+   "month": "2026-03",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 212,
+   "revenue": 25228.0
+  },
+  {
+   "month": "2026-03",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 141,
+   "revenue": 16779.0
+  },
+  {
+   "month": "2026-04",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 235,
+   "revenue": 27965.0
+  },
+  {
+   "month": "2026-04",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 182,
+   "revenue": 21658.0
+  },
+  {
+   "month": "2026-04",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 182,
+   "revenue": 21658.0
+  },
+  {
+   "month": "2026-04",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 212,
+   "revenue": 25228.0
+  },
+  {
+   "month": "2026-04",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 178,
+   "revenue": 21182.0
+  },
+  {
+   "month": "2026-05",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 257,
+   "revenue": 30583.0
+  },
+  {
+   "month": "2026-05",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 196,
+   "revenue": 23324.0
+  },
+  {
+   "month": "2026-05",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 191,
+   "revenue": 22729.0
+  },
+  {
+   "month": "2026-05",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 200,
+   "revenue": 23800.0
+  },
+  {
+   "month": "2026-05",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 181,
+   "revenue": 21539.0
+  },
+  {
+   "month": "2026-06",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 296,
+   "revenue": 35224.0
+  },
+  {
+   "month": "2026-06",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 228,
+   "revenue": 27132.0
+  },
+  {
+   "month": "2026-06",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 229,
+   "revenue": 27251.0
+  },
+  {
+   "month": "2026-06",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 263,
+   "revenue": 31297.0
+  },
+  {
+   "month": "2026-06",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 166,
+   "revenue": 19754.0
+  },
+  {
+   "month": "2026-07",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 295,
+   "revenue": 35105.0
+  },
+  {
+   "month": "2026-07",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 252,
+   "revenue": 29988.0
+  },
+  {
+   "month": "2026-07",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 244,
+   "revenue": 29036.0
+  },
+  {
+   "month": "2026-07",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 264,
+   "revenue": 31416.0
+  },
+  {
+   "month": "2026-07",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 161,
+   "revenue": 19159.0
+  },
+  {
+   "month": "2026-08",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 237,
+   "revenue": 28203.0
+  },
+  {
+   "month": "2026-08",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 195,
+   "revenue": 23205.0
+  },
+  {
+   "month": "2026-08",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 233,
+   "revenue": 27727.0
+  },
+  {
+   "month": "2026-08",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 266,
+   "revenue": 31654.0
+  },
+  {
+   "month": "2026-08",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 191,
+   "revenue": 22729.0
+  },
+  {
+   "month": "2026-09",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 241,
+   "revenue": 28679.0
+  },
+  {
+   "month": "2026-09",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 203,
+   "revenue": 24157.0
+  },
+  {
+   "month": "2026-09",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 236,
+   "revenue": 28084.0
+  },
+  {
+   "month": "2026-09",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 278,
+   "revenue": 33082.0
+  },
+  {
+   "month": "2026-09",
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 156,
+   "revenue": 18564.0
+  },
+  {
+   "month": "2026-01",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "North",
+   "units": 355,
+   "revenue": 15261.45
+  },
+  {
+   "month": "2026-01",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "South",
+   "units": 283,
+   "revenue": 12166.17
+  },
+  {
+   "month": "2026-01",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "East",
+   "units": 317,
+   "revenue": 13627.83
+  },
+  {
+   "month": "2026-01",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "West",
+   "units": 368,
+   "revenue": 15820.32
+  },
+  {
+   "month": "2026-01",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "Central",
+   "units": 220,
+   "revenue": 9457.8
+  },
+  {
+   "month": "2026-02",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "North",
+   "units": 364,
+   "revenue": 15648.36
+  },
+  {
+   "month": "2026-02",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "South",
+   "units": 340,
+   "revenue": 14616.6
+  },
+  {
+   "month": "2026-02",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "East",
+   "units": 281,
+   "revenue": 12080.19
+  },
+  {
+   "month": "2026-02",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "West",
+   "units": 390,
+   "revenue": 16766.1
+  },
+  {
+   "month": "2026-02",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "Central",
+   "units": 249,
+   "revenue": 10704.51
+  },
+  {
+   "month": "2026-03",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "North",
+   "units": 345,
+   "revenue": 14831.55
+  },
+  {
+   "month": "2026-03",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "South",
+   "units": 349,
+   "revenue": 15003.51
+  },
+  {
+   "month": "2026-03",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "East",
+   "units": 333,
+   "revenue": 14315.67
+  },
+  {
+   "month": "2026-03",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "West",
+   "units": 329,
+   "revenue": 14143.71
+  },
+  {
+   "month": "2026-03",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "Central",
+   "units": 248,
+   "revenue": 10661.52
+  },
+  {
+   "month": "2026-04",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "North",
+   "units": 446,
+   "revenue": 19173.54
+  },
+  {
+   "month": "2026-04",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "South",
+   "units": 370,
+   "revenue": 15906.3
+  },
+  {
+   "month": "2026-04",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "East",
+   "units": 315,
+   "revenue": 13541.85
+  },
+  {
+   "month": "2026-04",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "West",
+   "units": 373,
+   "revenue": 16035.27
+  },
+  {
+   "month": "2026-04",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "Central",
+   "units": 239,
+   "revenue": 10274.61
+  },
+  {
+   "month": "2026-05",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "North",
+   "units": 366,
+   "revenue": 15734.34
+  },
+  {
+   "month": "2026-05",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "South",
+   "units": 346,
+   "revenue": 14874.54
+  },
+  {
+   "month": "2026-05",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "East",
+   "units": 338,
+   "revenue": 14530.62
+  },
+  {
+   "month": "2026-05",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "West",
+   "units": 350,
+   "revenue": 15046.5
+  },
+  {
+   "month": "2026-05",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "Central",
+   "units": 254,
+   "revenue": 10919.46
+  },
+  {
+   "month": "2026-06",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "North",
+   "units": 400,
+   "revenue": 17196.0
+  },
+  {
+   "month": "2026-06",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "South",
+   "units": 435,
+   "revenue": 18700.65
+  },
+  {
+   "month": "2026-06",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "East",
+   "units": 348,
+   "revenue": 14960.52
+  },
+  {
+   "month": "2026-06",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "West",
+   "units": 492,
+   "revenue": 21151.08
+  },
+  {
+   "month": "2026-06",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "Central",
+   "units": 353,
+   "revenue": 15175.47
+  },
+  {
+   "month": "2026-07",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "North",
+   "units": 410,
+   "revenue": 17625.9
+  },
+  {
+   "month": "2026-07",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "South",
+   "units": 396,
+   "revenue": 17024.04
+  },
+  {
+   "month": "2026-07",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "East",
+   "units": 408,
+   "revenue": 17539.92
+  },
+  {
+   "month": "2026-07",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "West",
+   "units": 412,
+   "revenue": 17711.88
+  },
+  {
+   "month": "2026-07",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "Central",
+   "units": 291,
+   "revenue": 12510.09
+  },
+  {
+   "month": "2026-08",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "North",
+   "units": 487,
+   "revenue": 20936.13
+  },
+  {
+   "month": "2026-08",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "South",
+   "units": 402,
+   "revenue": 17281.98
+  },
+  {
+   "month": "2026-08",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "East",
+   "units": 353,
+   "revenue": 15175.47
+  },
+  {
+   "month": "2026-08",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "West",
+   "units": 447,
+   "revenue": 19216.53
+  },
+  {
+   "month": "2026-08",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "Central",
+   "units": 327,
+   "revenue": 14057.73
+  },
+  {
+   "month": "2026-09",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "North",
+   "units": 401,
+   "revenue": 17238.99
+  },
+  {
+   "month": "2026-09",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "South",
+   "units": 354,
+   "revenue": 15218.46
+  },
+  {
+   "month": "2026-09",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "East",
+   "units": 357,
+   "revenue": 15347.43
+  },
+  {
+   "month": "2026-09",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "West",
+   "units": 413,
+   "revenue": 17754.87
+  },
+  {
+   "month": "2026-09",
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "Central",
+   "units": 304,
+   "revenue": 13068.96
+  },
+  {
+   "month": "2026-01",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 184,
+   "revenue": 27598.16
+  },
+  {
+   "month": "2026-01",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 165,
+   "revenue": 24748.35
+  },
+  {
+   "month": "2026-01",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 163,
+   "revenue": 24448.37
+  },
+  {
+   "month": "2026-01",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 145,
+   "revenue": 21748.55
+  },
+  {
+   "month": "2026-01",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 116,
+   "revenue": 17398.84
+  },
+  {
+   "month": "2026-02",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 169,
+   "revenue": 25348.31
+  },
+  {
+   "month": "2026-02",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 179,
+   "revenue": 26848.21
+  },
+  {
+   "month": "2026-02",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 135,
+   "revenue": 20248.65
+  },
+  {
+   "month": "2026-02",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 154,
+   "revenue": 23098.46
+  },
+  {
+   "month": "2026-02",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 121,
+   "revenue": 18148.79
+  },
+  {
+   "month": "2026-03",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 178,
+   "revenue": 26698.22
+  },
+  {
+   "month": "2026-03",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 155,
+   "revenue": 23248.45
+  },
+  {
+   "month": "2026-03",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 139,
+   "revenue": 20848.61
+  },
+  {
+   "month": "2026-03",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 197,
+   "revenue": 29548.03
+  },
+  {
+   "month": "2026-03",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 125,
+   "revenue": 18748.75
+  },
+  {
+   "month": "2026-04",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 208,
+   "revenue": 31197.92
+  },
+  {
+   "month": "2026-04",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 174,
+   "revenue": 26098.26
+  },
+  {
+   "month": "2026-04",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 134,
+   "revenue": 20098.66
+  },
+  {
+   "month": "2026-04",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 206,
+   "revenue": 30897.94
+  },
+  {
+   "month": "2026-04",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 143,
+   "revenue": 21448.57
+  },
+  {
+   "month": "2026-05",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 220,
+   "revenue": 32997.8
+  },
+  {
+   "month": "2026-05",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 198,
+   "revenue": 29698.02
+  },
+  {
+   "month": "2026-05",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 176,
+   "revenue": 26398.24
+  },
+  {
+   "month": "2026-05",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 166,
+   "revenue": 24898.34
+  },
+  {
+   "month": "2026-05",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 133,
+   "revenue": 19948.67
+  },
+  {
+   "month": "2026-06",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 203,
+   "revenue": 30447.97
+  },
+  {
+   "month": "2026-06",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 196,
+   "revenue": 29398.04
+  },
+  {
+   "month": "2026-06",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 159,
+   "revenue": 23848.41
+  },
+  {
+   "month": "2026-06",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 204,
+   "revenue": 30597.96
+  },
+  {
+   "month": "2026-06",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 177,
+   "revenue": 26548.23
+  },
+  {
+   "month": "2026-07",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 211,
+   "revenue": 31647.89
+  },
+  {
+   "month": "2026-07",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 225,
+   "revenue": 33747.75
+  },
+  {
+   "month": "2026-07",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 185,
+   "revenue": 27748.15
+  },
+  {
+   "month": "2026-07",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 213,
+   "revenue": 31947.87
+  },
+  {
+   "month": "2026-07",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 180,
+   "revenue": 26998.2
+  },
+  {
+   "month": "2026-08",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 239,
+   "revenue": 35847.61
+  },
+  {
+   "month": "2026-08",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 193,
+   "revenue": 28948.07
+  },
+  {
+   "month": "2026-08",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 183,
+   "revenue": 27448.17
+  },
+  {
+   "month": "2026-08",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 178,
+   "revenue": 26698.22
+  },
+  {
+   "month": "2026-08",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 136,
+   "revenue": 20398.64
+  },
+  {
+   "month": "2026-09",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "North",
+   "units": 243,
+   "revenue": 36447.57
+  },
+  {
+   "month": "2026-09",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "South",
+   "units": 199,
+   "revenue": 29848.01
+  },
+  {
+   "month": "2026-09",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "East",
+   "units": 178,
+   "revenue": 26698.22
+  },
+  {
+   "month": "2026-09",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "West",
+   "units": 219,
+   "revenue": 32847.81
+  },
+  {
+   "month": "2026-09",
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "Central",
+   "units": 129,
+   "revenue": 19348.71
+  },
+  {
+   "month": "2026-01",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "North",
+   "units": 448,
+   "revenue": 13435.52
+  },
+  {
+   "month": "2026-01",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "South",
+   "units": 399,
+   "revenue": 11966.01
+  },
+  {
+   "month": "2026-01",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "East",
+   "units": 399,
+   "revenue": 11966.01
+  },
+  {
+   "month": "2026-01",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "West",
+   "units": 375,
+   "revenue": 11246.25
+  },
+  {
+   "month": "2026-01",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 346,
+   "revenue": 10376.54
+  },
+  {
+   "month": "2026-02",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "North",
+   "units": 393,
+   "revenue": 11786.07
+  },
+  {
+   "month": "2026-02",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "South",
+   "units": 372,
+   "revenue": 11156.28
+  },
+  {
+   "month": "2026-02",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "East",
+   "units": 382,
+   "revenue": 11456.18
+  },
+  {
+   "month": "2026-02",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "West",
+   "units": 453,
+   "revenue": 13585.47
+  },
+  {
+   "month": "2026-02",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 288,
+   "revenue": 8637.12
+  },
+  {
+   "month": "2026-03",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "North",
+   "units": 410,
+   "revenue": 12295.9
+  },
+  {
+   "month": "2026-03",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "South",
+   "units": 472,
+   "revenue": 14155.28
+  },
+  {
+   "month": "2026-03",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "East",
+   "units": 353,
+   "revenue": 10586.47
+  },
+  {
+   "month": "2026-03",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "West",
+   "units": 455,
+   "revenue": 13645.45
+  },
+  {
+   "month": "2026-03",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 333,
+   "revenue": 9986.67
+  },
+  {
+   "month": "2026-04",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "North",
+   "units": 464,
+   "revenue": 13915.36
+  },
+  {
+   "month": "2026-04",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "South",
+   "units": 445,
+   "revenue": 13345.55
+  },
+  {
+   "month": "2026-04",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "East",
+   "units": 396,
+   "revenue": 11876.04
+  },
+  {
+   "month": "2026-04",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "West",
+   "units": 515,
+   "revenue": 15444.85
+  },
+  {
+   "month": "2026-04",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 301,
+   "revenue": 9026.99
+  },
+  {
+   "month": "2026-05",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "North",
+   "units": 521,
+   "revenue": 15624.79
+  },
+  {
+   "month": "2026-05",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "South",
+   "units": 411,
+   "revenue": 12325.89
+  },
+  {
+   "month": "2026-05",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "East",
+   "units": 391,
+   "revenue": 11726.09
+  },
+  {
+   "month": "2026-05",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "West",
+   "units": 492,
+   "revenue": 14755.08
+  },
+  {
+   "month": "2026-05",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 320,
+   "revenue": 9596.8
+  },
+  {
+   "month": "2026-06",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "North",
+   "units": 531,
+   "revenue": 15924.69
+  },
+  {
+   "month": "2026-06",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "South",
+   "units": 552,
+   "revenue": 16554.48
+  },
+  {
+   "month": "2026-06",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "East",
+   "units": 405,
+   "revenue": 12145.95
+  },
+  {
+   "month": "2026-06",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "West",
+   "units": 531,
+   "revenue": 15924.69
+  },
+  {
+   "month": "2026-06",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 450,
+   "revenue": 13495.5
+  },
+  {
+   "month": "2026-07",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "North",
+   "units": 663,
+   "revenue": 19883.37
+  },
+  {
+   "month": "2026-07",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "South",
+   "units": 459,
+   "revenue": 13765.41
+  },
+  {
+   "month": "2026-07",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "East",
+   "units": 436,
+   "revenue": 13075.64
+  },
+  {
+   "month": "2026-07",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "West",
+   "units": 513,
+   "revenue": 15384.87
+  },
+  {
+   "month": "2026-07",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 453,
+   "revenue": 13585.47
+  },
+  {
+   "month": "2026-08",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "North",
+   "units": 589,
+   "revenue": 17664.11
+  },
+  {
+   "month": "2026-08",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "South",
+   "units": 537,
+   "revenue": 16104.63
+  },
+  {
+   "month": "2026-08",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "East",
+   "units": 419,
+   "revenue": 12565.81
+  },
+  {
+   "month": "2026-08",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "West",
+   "units": 453,
+   "revenue": 13585.47
+  },
+  {
+   "month": "2026-08",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 404,
+   "revenue": 12115.96
+  },
+  {
+   "month": "2026-09",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "North",
+   "units": 574,
+   "revenue": 17214.26
+  },
+  {
+   "month": "2026-09",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "South",
+   "units": 511,
+   "revenue": 15324.89
+  },
+  {
+   "month": "2026-09",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "East",
+   "units": 513,
+   "revenue": 15384.87
+  },
+  {
+   "month": "2026-09",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "West",
+   "units": 542,
+   "revenue": 16254.58
+  },
+  {
+   "month": "2026-09",
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 321,
+   "revenue": 9626.79
+  },
+  {
+   "month": "2026-01",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "North",
+   "units": 365,
+   "revenue": 36496.35
+  },
+  {
+   "month": "2026-01",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "South",
+   "units": 286,
+   "revenue": 28597.14
+  },
+  {
+   "month": "2026-01",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "East",
+   "units": 289,
+   "revenue": 28897.11
+  },
+  {
+   "month": "2026-01",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "West",
+   "units": 361,
+   "revenue": 36096.39
+  },
+  {
+   "month": "2026-01",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 206,
+   "revenue": 20597.94
+  },
+  {
+   "month": "2026-02",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "North",
+   "units": 303,
+   "revenue": 30296.97
+  },
+  {
+   "month": "2026-02",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "South",
+   "units": 276,
+   "revenue": 27597.24
+  },
+  {
+   "month": "2026-02",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "East",
+   "units": 288,
+   "revenue": 28797.12
+  },
+  {
+   "month": "2026-02",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "West",
+   "units": 306,
+   "revenue": 30596.94
+  },
+  {
+   "month": "2026-02",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 246,
+   "revenue": 24597.54
+  },
+  {
+   "month": "2026-03",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "North",
+   "units": 376,
+   "revenue": 37596.24
+  },
+  {
+   "month": "2026-03",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "South",
+   "units": 294,
+   "revenue": 29397.06
+  },
+  {
+   "month": "2026-03",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "East",
+   "units": 303,
+   "revenue": 30296.97
+  },
+  {
+   "month": "2026-03",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "West",
+   "units": 314,
+   "revenue": 31396.86
+  },
+  {
+   "month": "2026-03",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 245,
+   "revenue": 24497.55
+  },
+  {
+   "month": "2026-04",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "North",
+   "units": 407,
+   "revenue": 40695.93
+  },
+  {
+   "month": "2026-04",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "South",
+   "units": 366,
+   "revenue": 36596.34
+  },
+  {
+   "month": "2026-04",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "East",
+   "units": 263,
+   "revenue": 26297.37
+  },
+  {
+   "month": "2026-04",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "West",
+   "units": 339,
+   "revenue": 33896.61
+  },
+  {
+   "month": "2026-04",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 235,
+   "revenue": 23497.65
+  },
+  {
+   "month": "2026-05",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "North",
+   "units": 317,
+   "revenue": 31696.83
+  },
+  {
+   "month": "2026-05",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "South",
+   "units": 368,
+   "revenue": 36796.32
+  },
+  {
+   "month": "2026-05",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "East",
+   "units": 321,
+   "revenue": 32096.79
+  },
+  {
+   "month": "2026-05",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "West",
+   "units": 331,
+   "revenue": 33096.69
+  },
+  {
+   "month": "2026-05",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 278,
+   "revenue": 27797.22
+  },
+  {
+   "month": "2026-06",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "North",
+   "units": 436,
+   "revenue": 43595.64
+  },
+  {
+   "month": "2026-06",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "South",
+   "units": 383,
+   "revenue": 38296.17
+  },
+  {
+   "month": "2026-06",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "East",
+   "units": 302,
+   "revenue": 30196.98
+  },
+  {
+   "month": "2026-06",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "West",
+   "units": 358,
+   "revenue": 35796.42
+  },
+  {
+   "month": "2026-06",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 333,
+   "revenue": 33296.67
+  },
+  {
+   "month": "2026-07",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "North",
+   "units": 494,
+   "revenue": 49395.06
+  },
+  {
+   "month": "2026-07",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "South",
+   "units": 407,
+   "revenue": 40695.93
+  },
+  {
+   "month": "2026-07",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "East",
+   "units": 400,
+   "revenue": 39996.0
+  },
+  {
+   "month": "2026-07",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "West",
+   "units": 432,
+   "revenue": 43195.68
+  },
+  {
+   "month": "2026-07",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 274,
+   "revenue": 27397.26
+  },
+  {
+   "month": "2026-08",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "North",
+   "units": 358,
+   "revenue": 35796.42
+  },
+  {
+   "month": "2026-08",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "South",
+   "units": 347,
+   "revenue": 34696.53
+  },
+  {
+   "month": "2026-08",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "East",
+   "units": 373,
+   "revenue": 37296.27
+  },
+  {
+   "month": "2026-08",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "West",
+   "units": 420,
+   "revenue": 41995.8
+  },
+  {
+   "month": "2026-08",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 311,
+   "revenue": 31096.89
+  },
+  {
+   "month": "2026-09",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "North",
+   "units": 463,
+   "revenue": 46295.37
+  },
+  {
+   "month": "2026-09",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "South",
+   "units": 344,
+   "revenue": 34396.56
+  },
+  {
+   "month": "2026-09",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "East",
+   "units": 315,
+   "revenue": 31496.85
+  },
+  {
+   "month": "2026-09",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "West",
+   "units": 348,
+   "revenue": 34796.52
+  },
+  {
+   "month": "2026-09",
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 311,
+   "revenue": 31096.89
+  },
+  {
+   "month": "2026-01",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 666,
+   "revenue": 13313.34
+  },
+  {
+   "month": "2026-01",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 530,
+   "revenue": 10594.7
+  },
+  {
+   "month": "2026-01",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 511,
+   "revenue": 10214.89
+  },
+  {
+   "month": "2026-01",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 512,
+   "revenue": 10234.88
+  },
+  {
+   "month": "2026-01",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 469,
+   "revenue": 9375.31
+  },
+  {
+   "month": "2026-02",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 683,
+   "revenue": 13653.17
+  },
+  {
+   "month": "2026-02",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 642,
+   "revenue": 12833.58
+  },
+  {
+   "month": "2026-02",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 556,
+   "revenue": 11114.44
+  },
+  {
+   "month": "2026-02",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 656,
+   "revenue": 13113.44
+  },
+  {
+   "month": "2026-02",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 367,
+   "revenue": 7336.33
+  },
+  {
+   "month": "2026-03",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 678,
+   "revenue": 13553.22
+  },
+  {
+   "month": "2026-03",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 549,
+   "revenue": 10974.51
+  },
+  {
+   "month": "2026-03",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 591,
+   "revenue": 11814.09
+  },
+  {
+   "month": "2026-03",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 661,
+   "revenue": 13213.39
+  },
+  {
+   "month": "2026-03",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 489,
+   "revenue": 9775.11
+  },
+  {
+   "month": "2026-04",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 712,
+   "revenue": 14232.88
+  },
+  {
+   "month": "2026-04",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 553,
+   "revenue": 11054.47
+  },
+  {
+   "month": "2026-04",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 584,
+   "revenue": 11674.16
+  },
+  {
+   "month": "2026-04",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 550,
+   "revenue": 10994.5
+  },
+  {
+   "month": "2026-04",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 504,
+   "revenue": 10074.96
+  },
+  {
+   "month": "2026-05",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 741,
+   "revenue": 14812.59
+  },
+  {
+   "month": "2026-05",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 560,
+   "revenue": 11194.4
+  },
+  {
+   "month": "2026-05",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 605,
+   "revenue": 12093.95
+  },
+  {
+   "month": "2026-05",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 633,
+   "revenue": 12653.67
+  },
+  {
+   "month": "2026-05",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 438,
+   "revenue": 8755.62
+  },
+  {
+   "month": "2026-06",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 838,
+   "revenue": 16751.62
+  },
+  {
+   "month": "2026-06",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 645,
+   "revenue": 12893.55
+  },
+  {
+   "month": "2026-06",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 545,
+   "revenue": 10894.55
+  },
+  {
+   "month": "2026-06",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 668,
+   "revenue": 13353.32
+  },
+  {
+   "month": "2026-06",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 508,
+   "revenue": 10154.92
+  },
+  {
+   "month": "2026-07",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 876,
+   "revenue": 17511.24
+  },
+  {
+   "month": "2026-07",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 822,
+   "revenue": 16431.78
+  },
+  {
+   "month": "2026-07",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 609,
+   "revenue": 12173.91
+  },
+  {
+   "month": "2026-07",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 788,
+   "revenue": 15752.12
+  },
+  {
+   "month": "2026-07",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 533,
+   "revenue": 10654.67
+  },
+  {
+   "month": "2026-08",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 828,
+   "revenue": 16551.72
+  },
+  {
+   "month": "2026-08",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 667,
+   "revenue": 13333.33
+  },
+  {
+   "month": "2026-08",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 676,
+   "revenue": 13513.24
+  },
+  {
+   "month": "2026-08",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 612,
+   "revenue": 12233.88
+  },
+  {
+   "month": "2026-08",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 574,
+   "revenue": 11474.26
+  },
+  {
+   "month": "2026-09",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "North",
+   "units": 670,
+   "revenue": 13393.3
+  },
+  {
+   "month": "2026-09",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "South",
+   "units": 770,
+   "revenue": 15392.3
+  },
+  {
+   "month": "2026-09",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "East",
+   "units": 569,
+   "revenue": 11374.31
+  },
+  {
+   "month": "2026-09",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "West",
+   "units": 625,
+   "revenue": 12493.75
+  },
+  {
+   "month": "2026-09",
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "Central",
+   "units": 505,
+   "revenue": 10094.95
+  },
+  {
+   "month": "2026-01",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "North",
+   "units": 258,
+   "revenue": 14187.42
+  },
+  {
+   "month": "2026-01",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "South",
+   "units": 208,
+   "revenue": 11437.92
+  },
+  {
+   "month": "2026-01",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "East",
+   "units": 205,
+   "revenue": 11272.95
+  },
+  {
+   "month": "2026-01",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "West",
+   "units": 231,
+   "revenue": 12702.69
+  },
+  {
+   "month": "2026-01",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "Central",
+   "units": 162,
+   "revenue": 8908.38
+  },
+  {
+   "month": "2026-02",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "North",
+   "units": 254,
+   "revenue": 13967.46
+  },
+  {
+   "month": "2026-02",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "South",
+   "units": 210,
+   "revenue": 11547.9
+  },
+  {
+   "month": "2026-02",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "East",
+   "units": 218,
+   "revenue": 11987.82
+  },
+  {
+   "month": "2026-02",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "West",
+   "units": 202,
+   "revenue": 11107.98
+  },
+  {
+   "month": "2026-02",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "Central",
+   "units": 195,
+   "revenue": 10723.05
+  },
+  {
+   "month": "2026-03",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "North",
+   "units": 258,
+   "revenue": 14187.42
+  },
+  {
+   "month": "2026-03",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "South",
+   "units": 249,
+   "revenue": 13692.51
+  },
+  {
+   "month": "2026-03",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "East",
+   "units": 226,
+   "revenue": 12427.74
+  },
+  {
+   "month": "2026-03",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "West",
+   "units": 257,
+   "revenue": 14132.43
+  },
+  {
+   "month": "2026-03",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "Central",
+   "units": 170,
+   "revenue": 9348.3
+  },
+  {
+   "month": "2026-04",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "North",
+   "units": 229,
+   "revenue": 12592.71
+  },
+  {
+   "month": "2026-04",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "South",
+   "units": 252,
+   "revenue": 13857.48
+  },
+  {
+   "month": "2026-04",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "East",
+   "units": 206,
+   "revenue": 11327.94
+  },
+  {
+   "month": "2026-04",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "West",
+   "units": 237,
+   "revenue": 13032.63
+  },
+  {
+   "month": "2026-04",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "Central",
+   "units": 202,
+   "revenue": 11107.98
+  },
+  {
+   "month": "2026-05",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "North",
+   "units": 288,
+   "revenue": 15837.12
+  },
+  {
+   "month": "2026-05",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "South",
+   "units": 232,
+   "revenue": 12757.68
+  },
+  {
+   "month": "2026-05",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "East",
+   "units": 210,
+   "revenue": 11547.9
+  },
+  {
+   "month": "2026-05",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "West",
+   "units": 251,
+   "revenue": 13802.49
+  },
+  {
+   "month": "2026-05",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "Central",
+   "units": 182,
+   "revenue": 10008.18
+  },
+  {
+   "month": "2026-06",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "North",
+   "units": 291,
+   "revenue": 16002.09
+  },
+  {
+   "month": "2026-06",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "South",
+   "units": 252,
+   "revenue": 13857.48
+  },
+  {
+   "month": "2026-06",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "East",
+   "units": 250,
+   "revenue": 13747.5
+  },
+  {
+   "month": "2026-06",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "West",
+   "units": 336,
+   "revenue": 18476.64
+  },
+  {
+   "month": "2026-06",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "Central",
+   "units": 227,
+   "revenue": 12482.73
+  },
+  {
+   "month": "2026-07",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "North",
+   "units": 357,
+   "revenue": 19631.43
+  },
+  {
+   "month": "2026-07",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "South",
+   "units": 301,
+   "revenue": 16551.99
+  },
+  {
+   "month": "2026-07",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "East",
+   "units": 247,
+   "revenue": 13582.53
+  },
+  {
+   "month": "2026-07",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "West",
+   "units": 309,
+   "revenue": 16991.91
+  },
+  {
+   "month": "2026-07",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "Central",
+   "units": 188,
+   "revenue": 10338.12
+  },
+  {
+   "month": "2026-08",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "North",
+   "units": 273,
+   "revenue": 15012.27
+  },
+  {
+   "month": "2026-08",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "South",
+   "units": 261,
+   "revenue": 14352.39
+  },
+  {
+   "month": "2026-08",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "East",
+   "units": 247,
+   "revenue": 13582.53
+  },
+  {
+   "month": "2026-08",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "West",
+   "units": 292,
+   "revenue": 16057.08
+  },
+  {
+   "month": "2026-08",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "Central",
+   "units": 201,
+   "revenue": 11052.99
+  },
+  {
+   "month": "2026-09",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "North",
+   "units": 294,
+   "revenue": 16167.06
+  },
+  {
+   "month": "2026-09",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "South",
+   "units": 249,
+   "revenue": 13692.51
+  },
+  {
+   "month": "2026-09",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "East",
+   "units": 245,
+   "revenue": 13472.55
+  },
+  {
+   "month": "2026-09",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "West",
+   "units": 320,
+   "revenue": 17596.8
+  },
+  {
+   "month": "2026-09",
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "Central",
+   "units": 226,
+   "revenue": 12427.74
+  },
+  {
+   "month": "2026-01",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "North",
+   "units": 248,
+   "revenue": 9917.52
+  },
+  {
+   "month": "2026-01",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "South",
+   "units": 220,
+   "revenue": 8797.8
+  },
+  {
+   "month": "2026-01",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "East",
+   "units": 229,
+   "revenue": 9157.71
+  },
+  {
+   "month": "2026-01",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "West",
+   "units": 274,
+   "revenue": 10957.26
+  },
+  {
+   "month": "2026-01",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "Central",
+   "units": 182,
+   "revenue": 7278.18
+  },
+  {
+   "month": "2026-02",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "North",
+   "units": 311,
+   "revenue": 12436.89
+  },
+  {
+   "month": "2026-02",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "South",
+   "units": 279,
+   "revenue": 11157.21
+  },
+  {
+   "month": "2026-02",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "East",
+   "units": 247,
+   "revenue": 9877.53
+  },
+  {
+   "month": "2026-02",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "West",
+   "units": 249,
+   "revenue": 9957.51
+  },
+  {
+   "month": "2026-02",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "Central",
+   "units": 179,
+   "revenue": 7158.21
+  },
+  {
+   "month": "2026-03",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "North",
+   "units": 250,
+   "revenue": 9997.5
+  },
+  {
+   "month": "2026-03",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "South",
+   "units": 246,
+   "revenue": 9837.54
+  },
+  {
+   "month": "2026-03",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "East",
+   "units": 239,
+   "revenue": 9557.61
+  },
+  {
+   "month": "2026-03",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "West",
+   "units": 309,
+   "revenue": 12356.91
+  },
+  {
+   "month": "2026-03",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "Central",
+   "units": 177,
+   "revenue": 7078.23
+  },
+  {
+   "month": "2026-04",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "North",
+   "units": 293,
+   "revenue": 11717.07
+  },
+  {
+   "month": "2026-04",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "South",
+   "units": 285,
+   "revenue": 11397.15
+  },
+  {
+   "month": "2026-04",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "East",
+   "units": 225,
+   "revenue": 8997.75
+  },
+  {
+   "month": "2026-04",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "West",
+   "units": 304,
+   "revenue": 12156.96
+  },
+  {
+   "month": "2026-04",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "Central",
+   "units": 208,
+   "revenue": 8317.92
+  },
+  {
+   "month": "2026-05",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "North",
+   "units": 285,
+   "revenue": 11397.15
+  },
+  {
+   "month": "2026-05",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "South",
+   "units": 295,
+   "revenue": 11797.05
+  },
+  {
+   "month": "2026-05",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "East",
+   "units": 217,
+   "revenue": 8677.83
+  },
+  {
+   "month": "2026-05",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "West",
+   "units": 317,
+   "revenue": 12676.83
+  },
+  {
+   "month": "2026-05",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "Central",
+   "units": 232,
+   "revenue": 9277.68
+  },
+  {
+   "month": "2026-06",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "North",
+   "units": 313,
+   "revenue": 12516.87
+  },
+  {
+   "month": "2026-06",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "South",
+   "units": 317,
+   "revenue": 12676.83
+  },
+  {
+   "month": "2026-06",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "East",
+   "units": 265,
+   "revenue": 10597.35
+  },
+  {
+   "month": "2026-06",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "West",
+   "units": 386,
+   "revenue": 15436.14
+  },
+  {
+   "month": "2026-06",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "Central",
+   "units": 248,
+   "revenue": 9917.52
+  },
+  {
+   "month": "2026-07",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "North",
+   "units": 315,
+   "revenue": 12596.85
+  },
+  {
+   "month": "2026-07",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "South",
+   "units": 307,
+   "revenue": 12276.93
+  },
+  {
+   "month": "2026-07",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "East",
+   "units": 332,
+   "revenue": 13276.68
+  },
+  {
+   "month": "2026-07",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "West",
+   "units": 344,
+   "revenue": 13756.56
+  },
+  {
+   "month": "2026-07",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "Central",
+   "units": 276,
+   "revenue": 11037.24
+  },
+  {
+   "month": "2026-08",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "North",
+   "units": 350,
+   "revenue": 13996.5
+  },
+  {
+   "month": "2026-08",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "South",
+   "units": 349,
+   "revenue": 13956.51
+  },
+  {
+   "month": "2026-08",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "East",
+   "units": 283,
+   "revenue": 11317.17
+  },
+  {
+   "month": "2026-08",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "West",
+   "units": 362,
+   "revenue": 14476.38
+  },
+  {
+   "month": "2026-08",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "Central",
+   "units": 259,
+   "revenue": 10357.41
+  },
+  {
+   "month": "2026-09",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "North",
+   "units": 353,
+   "revenue": 14116.47
+  },
+  {
+   "month": "2026-09",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "South",
+   "units": 333,
+   "revenue": 13316.67
+  },
+  {
+   "month": "2026-09",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "East",
+   "units": 283,
+   "revenue": 11317.17
+  },
+  {
+   "month": "2026-09",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "West",
+   "units": 359,
+   "revenue": 14356.41
+  },
+  {
+   "month": "2026-09",
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "Central",
+   "units": 241,
+   "revenue": 9637.59
+  },
+  {
+   "month": "2026-01",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "North",
+   "units": 579,
+   "revenue": 20259.21
+  },
+  {
+   "month": "2026-01",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "South",
+   "units": 507,
+   "revenue": 17739.93
+  },
+  {
+   "month": "2026-01",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "East",
+   "units": 424,
+   "revenue": 14835.76
+  },
+  {
+   "month": "2026-01",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "West",
+   "units": 459,
+   "revenue": 16060.41
+  },
+  {
+   "month": "2026-01",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "Central",
+   "units": 332,
+   "revenue": 11616.68
+  },
+  {
+   "month": "2026-02",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "North",
+   "units": 555,
+   "revenue": 19419.45
+  },
+  {
+   "month": "2026-02",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "South",
+   "units": 525,
+   "revenue": 18369.75
+  },
+  {
+   "month": "2026-02",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "East",
+   "units": 443,
+   "revenue": 15500.57
+  },
+  {
+   "month": "2026-02",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "West",
+   "units": 529,
+   "revenue": 18509.71
+  },
+  {
+   "month": "2026-02",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "Central",
+   "units": 345,
+   "revenue": 12071.55
+  },
+  {
+   "month": "2026-03",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "North",
+   "units": 479,
+   "revenue": 16760.21
+  },
+  {
+   "month": "2026-03",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "South",
+   "units": 468,
+   "revenue": 16375.32
+  },
+  {
+   "month": "2026-03",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "East",
+   "units": 422,
+   "revenue": 14765.78
+  },
+  {
+   "month": "2026-03",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "West",
+   "units": 496,
+   "revenue": 17355.04
+  },
+  {
+   "month": "2026-03",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "Central",
+   "units": 386,
+   "revenue": 13506.14
+  },
+  {
+   "month": "2026-04",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "North",
+   "units": 502,
+   "revenue": 17564.98
+  },
+  {
+   "month": "2026-04",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "South",
+   "units": 473,
+   "revenue": 16550.27
+  },
+  {
+   "month": "2026-04",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "East",
+   "units": 493,
+   "revenue": 17250.07
+  },
+  {
+   "month": "2026-04",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "West",
+   "units": 572,
+   "revenue": 20014.28
+  },
+  {
+   "month": "2026-04",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "Central",
+   "units": 341,
+   "revenue": 11931.59
+  },
+  {
+   "month": "2026-05",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "North",
+   "units": 563,
+   "revenue": 19699.37
+  },
+  {
+   "month": "2026-05",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "South",
+   "units": 535,
+   "revenue": 18719.65
+  },
+  {
+   "month": "2026-05",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "East",
+   "units": 466,
+   "revenue": 16305.34
+  },
+  {
+   "month": "2026-05",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "West",
+   "units": 505,
+   "revenue": 17669.95
+  },
+  {
+   "month": "2026-05",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "Central",
+   "units": 393,
+   "revenue": 13751.07
+  },
+  {
+   "month": "2026-06",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "North",
+   "units": 747,
+   "revenue": 26137.53
+  },
+  {
+   "month": "2026-06",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "South",
+   "units": 623,
+   "revenue": 21798.77
+  },
+  {
+   "month": "2026-06",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "East",
+   "units": 582,
+   "revenue": 20364.18
+  },
+  {
+   "month": "2026-06",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "West",
+   "units": 705,
+   "revenue": 24667.95
+  },
+  {
+   "month": "2026-06",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "Central",
+   "units": 500,
+   "revenue": 17495.0
+  },
+  {
+   "month": "2026-07",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "North",
+   "units": 659,
+   "revenue": 23058.41
+  },
+  {
+   "month": "2026-07",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "South",
+   "units": 531,
+   "revenue": 18579.69
+  },
+  {
+   "month": "2026-07",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "East",
+   "units": 539,
+   "revenue": 18859.61
+  },
+  {
+   "month": "2026-07",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "West",
+   "units": 703,
+   "revenue": 24597.97
+  },
+  {
+   "month": "2026-07",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "Central",
+   "units": 526,
+   "revenue": 18404.74
+  },
+  {
+   "month": "2026-08",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "North",
+   "units": 711,
+   "revenue": 24877.89
+  },
+  {
+   "month": "2026-08",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "South",
+   "units": 557,
+   "revenue": 19489.43
+  },
+  {
+   "month": "2026-08",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "East",
+   "units": 555,
+   "revenue": 19419.45
+  },
+  {
+   "month": "2026-08",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "West",
+   "units": 607,
+   "revenue": 21238.93
+  },
+  {
+   "month": "2026-08",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "Central",
+   "units": 449,
+   "revenue": 15710.51
+  },
+  {
+   "month": "2026-09",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "North",
+   "units": 587,
+   "revenue": 20539.13
+  },
+  {
+   "month": "2026-09",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "South",
+   "units": 536,
+   "revenue": 18754.64
+  },
+  {
+   "month": "2026-09",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "East",
+   "units": 519,
+   "revenue": 18159.81
+  },
+  {
+   "month": "2026-09",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "West",
+   "units": 527,
+   "revenue": 18439.73
+  },
+  {
+   "month": "2026-09",
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "Central",
+   "units": 424,
+   "revenue": 14835.76
+  },
+  {
+   "month": "2026-01",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "North",
+   "units": 206,
+   "revenue": 16477.94
+  },
+  {
+   "month": "2026-01",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "South",
+   "units": 173,
+   "revenue": 13838.27
+  },
+  {
+   "month": "2026-01",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "East",
+   "units": 145,
+   "revenue": 11598.55
+  },
+  {
+   "month": "2026-01",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "West",
+   "units": 185,
+   "revenue": 14798.15
+  },
+  {
+   "month": "2026-01",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 120,
+   "revenue": 9598.8
+  },
+  {
+   "month": "2026-02",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "North",
+   "units": 208,
+   "revenue": 16637.92
+  },
+  {
+   "month": "2026-02",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "South",
+   "units": 157,
+   "revenue": 12558.43
+  },
+  {
+   "month": "2026-02",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "East",
+   "units": 161,
+   "revenue": 12878.39
+  },
+  {
+   "month": "2026-02",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "West",
+   "units": 196,
+   "revenue": 15678.04
+  },
+  {
+   "month": "2026-02",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 120,
+   "revenue": 9598.8
+  },
+  {
+   "month": "2026-03",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "North",
+   "units": 216,
+   "revenue": 17277.84
+  },
+  {
+   "month": "2026-03",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "South",
+   "units": 168,
+   "revenue": 13438.32
+  },
+  {
+   "month": "2026-03",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "East",
+   "units": 169,
+   "revenue": 13518.31
+  },
+  {
+   "month": "2026-03",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "West",
+   "units": 171,
+   "revenue": 13678.29
+  },
+  {
+   "month": "2026-03",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 138,
+   "revenue": 11038.62
+  },
+  {
+   "month": "2026-04",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "North",
+   "units": 194,
+   "revenue": 15518.06
+  },
+  {
+   "month": "2026-04",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "South",
+   "units": 184,
+   "revenue": 14718.16
+  },
+  {
+   "month": "2026-04",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "East",
+   "units": 189,
+   "revenue": 15118.11
+  },
+  {
+   "month": "2026-04",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "West",
+   "units": 196,
+   "revenue": 15678.04
+  },
+  {
+   "month": "2026-04",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 159,
+   "revenue": 12718.41
+  },
+  {
+   "month": "2026-05",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "North",
+   "units": 240,
+   "revenue": 19197.6
+  },
+  {
+   "month": "2026-05",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "South",
+   "units": 185,
+   "revenue": 14798.15
+  },
+  {
+   "month": "2026-05",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "East",
+   "units": 158,
+   "revenue": 12638.42
+  },
+  {
+   "month": "2026-05",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "West",
+   "units": 179,
+   "revenue": 14318.21
+  },
+  {
+   "month": "2026-05",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 154,
+   "revenue": 12318.46
+  },
+  {
+   "month": "2026-06",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "North",
+   "units": 289,
+   "revenue": 23117.11
+  },
+  {
+   "month": "2026-06",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "South",
+   "units": 219,
+   "revenue": 17517.81
+  },
+  {
+   "month": "2026-06",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "East",
+   "units": 217,
+   "revenue": 17357.83
+  },
+  {
+   "month": "2026-06",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "West",
+   "units": 261,
+   "revenue": 20877.39
+  },
+  {
+   "month": "2026-06",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 183,
+   "revenue": 14638.17
+  },
+  {
+   "month": "2026-07",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "North",
+   "units": 278,
+   "revenue": 22237.22
+  },
+  {
+   "month": "2026-07",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "South",
+   "units": 267,
+   "revenue": 21357.33
+  },
+  {
+   "month": "2026-07",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "East",
+   "units": 194,
+   "revenue": 15518.06
+  },
+  {
+   "month": "2026-07",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "West",
+   "units": 211,
+   "revenue": 16877.89
+  },
+  {
+   "month": "2026-07",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 160,
+   "revenue": 12798.4
+  },
+  {
+   "month": "2026-08",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "North",
+   "units": 210,
+   "revenue": 16797.9
+  },
+  {
+   "month": "2026-08",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "South",
+   "units": 226,
+   "revenue": 18077.74
+  },
+  {
+   "month": "2026-08",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "East",
+   "units": 199,
+   "revenue": 15918.01
+  },
+  {
+   "month": "2026-08",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "West",
+   "units": 207,
+   "revenue": 16557.93
+  },
+  {
+   "month": "2026-08",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 174,
+   "revenue": 13918.26
+  },
+  {
+   "month": "2026-09",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "North",
+   "units": 261,
+   "revenue": 20877.39
+  },
+  {
+   "month": "2026-09",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "South",
+   "units": 199,
+   "revenue": 15918.01
+  },
+  {
+   "month": "2026-09",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "East",
+   "units": 206,
+   "revenue": 16477.94
+  },
+  {
+   "month": "2026-09",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "West",
+   "units": 249,
+   "revenue": 19917.51
+  },
+  {
+   "month": "2026-09",
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "Central",
+   "units": 149,
+   "revenue": 11918.51
+  }
+ ],
+ "inventory": [
+  {
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "North",
+   "stock_on_hand": 131,
+   "reorder_point": 75
+  },
+  {
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "South",
+   "stock_on_hand": 169,
+   "reorder_point": 75
+  },
+  {
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "East",
+   "stock_on_hand": 117,
+   "reorder_point": 75
+  },
+  {
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "West",
+   "stock_on_hand": 6,
+   "reorder_point": 75
+  },
+  {
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "region": "Central",
+   "stock_on_hand": 169,
+   "reorder_point": 75
+  },
+  {
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "North",
+   "stock_on_hand": 157,
+   "reorder_point": 46
+  },
+  {
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "South",
+   "stock_on_hand": 162,
+   "reorder_point": 46
+  },
+  {
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "East",
+   "stock_on_hand": 111,
+   "reorder_point": 46
+  },
+  {
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "West",
+   "stock_on_hand": 80,
+   "reorder_point": 46
+  },
+  {
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "region": "Central",
+   "stock_on_hand": 123,
+   "reorder_point": 46
+  },
+  {
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "North",
+   "stock_on_hand": 73,
+   "reorder_point": 32
+  },
+  {
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "South",
+   "stock_on_hand": 124,
+   "reorder_point": 32
+  },
+  {
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "East",
+   "stock_on_hand": 77,
+   "reorder_point": 32
+  },
+  {
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "West",
+   "stock_on_hand": 191,
+   "reorder_point": 32
+  },
+  {
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "region": "Central",
+   "stock_on_hand": 57,
+   "reorder_point": 32
+  },
+  {
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "North",
+   "stock_on_hand": 158,
+   "reorder_point": 55
+  },
+  {
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "South",
+   "stock_on_hand": 206,
+   "reorder_point": 55
+  },
+  {
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "East",
+   "stock_on_hand": 179,
+   "reorder_point": 55
+  },
+  {
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "West",
+   "stock_on_hand": 164,
+   "reorder_point": 55
+  },
+  {
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "region": "Central",
+   "stock_on_hand": 87,
+   "reorder_point": 55
+  },
+  {
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "North",
+   "stock_on_hand": 171,
+   "reorder_point": 27
+  },
+  {
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "South",
+   "stock_on_hand": 129,
+   "reorder_point": 27
+  },
+  {
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "East",
+   "stock_on_hand": 45,
+   "reorder_point": 27
+  },
+  {
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "West",
+   "stock_on_hand": 149,
+   "reorder_point": 27
+  },
+  {
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "region": "Central",
+   "stock_on_hand": 167,
+   "reorder_point": 27
+  },
+  {
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "North",
+   "stock_on_hand": 110,
+   "reorder_point": 68
+  },
+  {
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "South",
+   "stock_on_hand": 30,
+   "reorder_point": 68
+  },
+  {
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "East",
+   "stock_on_hand": 175,
+   "reorder_point": 68
+  },
+  {
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "West",
+   "stock_on_hand": 200,
+   "reorder_point": 68
+  },
+  {
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "region": "Central",
+   "stock_on_hand": 122,
+   "reorder_point": 68
+  },
+  {
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "North",
+   "stock_on_hand": 178,
+   "reorder_point": 52
+  },
+  {
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "South",
+   "stock_on_hand": 112,
+   "reorder_point": 52
+  },
+  {
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "East",
+   "stock_on_hand": 200,
+   "reorder_point": 52
+  },
+  {
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "West",
+   "stock_on_hand": 136,
+   "reorder_point": 52
+  },
+  {
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "region": "Central",
+   "stock_on_hand": 42,
+   "reorder_point": 52
+  },
+  {
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "North",
+   "stock_on_hand": 71,
+   "reorder_point": 93
+  },
+  {
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "South",
+   "stock_on_hand": 231,
+   "reorder_point": 93
+  },
+  {
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "East",
+   "stock_on_hand": 227,
+   "reorder_point": 93
+  },
+  {
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "West",
+   "stock_on_hand": 219,
+   "reorder_point": 93
+  },
+  {
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "region": "Central",
+   "stock_on_hand": 176,
+   "reorder_point": 93
+  },
+  {
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "North",
+   "stock_on_hand": 134,
+   "reorder_point": 37
+  },
+  {
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "South",
+   "stock_on_hand": 114,
+   "reorder_point": 37
+  },
+  {
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "East",
+   "stock_on_hand": 74,
+   "reorder_point": 37
+  },
+  {
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "West",
+   "stock_on_hand": 123,
+   "reorder_point": 37
+  },
+  {
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "region": "Central",
+   "stock_on_hand": 167,
+   "reorder_point": 37
+  },
+  {
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "North",
+   "stock_on_hand": 120,
+   "reorder_point": 43
+  },
+  {
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "South",
+   "stock_on_hand": 176,
+   "reorder_point": 43
+  },
+  {
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "East",
+   "stock_on_hand": 203,
+   "reorder_point": 43
+  },
+  {
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "West",
+   "stock_on_hand": 27,
+   "reorder_point": 43
+  },
+  {
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "region": "Central",
+   "stock_on_hand": 144,
+   "reorder_point": 43
+  },
+  {
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "North",
+   "stock_on_hand": 103,
+   "reorder_point": 81
+  },
+  {
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "South",
+   "stock_on_hand": 222,
+   "reorder_point": 81
+  },
+  {
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "East",
+   "stock_on_hand": 44,
+   "reorder_point": 81
+  },
+  {
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "West",
+   "stock_on_hand": 142,
+   "reorder_point": 81
+  },
+  {
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "region": "Central",
+   "stock_on_hand": 220,
+   "reorder_point": 81
+  },
+  {
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "North",
+   "stock_on_hand": 99,
+   "reorder_point": 30
+  },
+  {
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "South",
+   "stock_on_hand": 135,
+   "reorder_point": 30
+  },
+  {
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "East",
+   "stock_on_hand": 111,
+   "reorder_point": 30
+  },
+  {
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "West",
+   "stock_on_hand": 132,
+   "reorder_point": 30
+  },
+  {
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "region": "Central",
+   "stock_on_hand": 116,
+   "reorder_point": 30
+  }
+ ],
+ "returns": [
+  {
+   "product": "Aurora Wireless Headphones",
+   "category": "Audio",
+   "units_sold": 21802,
+   "returned_units": 806,
+   "main_reason": "Battery stopped holding a charge"
+  },
+  {
+   "product": "TrailBlazer Backpack",
+   "category": "Outdoor",
+   "units_sold": 13488,
+   "returned_units": 438,
+   "main_reason": "Zipper failed"
+  },
+  {
+   "product": "ChefPro Knife Set",
+   "category": "Kitchen",
+   "units_sold": 9474,
+   "returned_units": 207,
+   "main_reason": "Arrived with a chipped blade"
+  },
+  {
+   "product": "LumaDesk Lamp",
+   "category": "Home",
+   "units_sold": 15958,
+   "returned_units": 243,
+   "main_reason": "Wrong color for the buyer"
+  },
+  {
+   "product": "Vortex Blender Pro",
+   "category": "Kitchen",
+   "units_sold": 7933,
+   "returned_units": 307,
+   "main_reason": "Motor noise reported as too loud"
+  },
+  {
+   "product": "FlexFit Yoga Mat",
+   "category": "Fitness",
+   "units_sold": 19990,
+   "returned_units": 342,
+   "main_reason": "Thinner than expected"
+  },
+  {
+   "product": "SwiftStep Running Shoes",
+   "category": "Fitness",
+   "units_sold": 15092,
+   "returned_units": 724,
+   "main_reason": "Wrong size ordered"
+  },
+  {
+   "product": "PureSip Water Bottle",
+   "category": "Outdoor",
+   "units_sold": 27768,
+   "returned_units": 1721,
+   "main_reason": "Lid leaked"
+  },
+  {
+   "product": "ClearView Monitor Stand",
+   "category": "Tech",
+   "units_sold": 10958,
+   "returned_units": 372,
+   "main_reason": "Did not fit the desk"
+  },
+  {
+   "product": "CozyNest Throw Blanket",
+   "category": "Home",
+   "units_sold": 12575,
+   "returned_units": 405,
+   "main_reason": "Color looked different in person"
+  },
+  {
+   "product": "VoltDock Charging Station",
+   "category": "Tech",
+   "units_sold": 23379,
+   "returned_units": 1285,
+   "main_reason": "Charging slower than expected"
+  },
+  {
+   "product": "GripMax Dumbbell Set",
+   "category": "Fitness",
+   "units_sold": 8730,
+   "returned_units": 238,
+   "main_reason": "Grip coating peeling"
+  }
+ ]
+}

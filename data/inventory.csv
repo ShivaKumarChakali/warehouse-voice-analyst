@@ -1,0 +1,61 @@
+product,category,region,stock_on_hand,reorder_point
+Aurora Wireless Headphones,Audio,North,131,75
+Aurora Wireless Headphones,Audio,South,169,75
+Aurora Wireless Headphones,Audio,East,117,75
+Aurora Wireless Headphones,Audio,West,6,75
+Aurora Wireless Headphones,Audio,Central,169,75
+TrailBlazer Backpack,Outdoor,North,157,46
+TrailBlazer Backpack,Outdoor,South,162,46
+TrailBlazer Backpack,Outdoor,East,111,46
+TrailBlazer Backpack,Outdoor,West,80,46
+TrailBlazer Backpack,Outdoor,Central,123,46
+ChefPro Knife Set,Kitchen,North,73,32
+ChefPro Knife Set,Kitchen,South,124,32
+ChefPro Knife Set,Kitchen,East,77,32
+ChefPro Knife Set,Kitchen,West,191,32
+ChefPro Knife Set,Kitchen,Central,57,32
+LumaDesk Lamp,Home,North,158,55
+LumaDesk Lamp,Home,South,206,55
+LumaDesk Lamp,Home,East,179,55
+LumaDesk Lamp,Home,West,164,55
+LumaDesk Lamp,Home,Central,87,55
+Vortex Blender Pro,Kitchen,North,171,27
+Vortex Blender Pro,Kitchen,South,129,27
+Vortex Blender Pro,Kitchen,East,45,27
+Vortex Blender Pro,Kitchen,West,149,27
+Vortex Blender Pro,Kitchen,Central,167,27
+FlexFit Yoga Mat,Fitness,North,110,68
+FlexFit Yoga Mat,Fitness,South,30,68
+FlexFit Yoga Mat,Fitness,East,175,68
+FlexFit Yoga Mat,Fitness,West,200,68
+FlexFit Yoga Mat,Fitness,Central,122,68
+SwiftStep Running Shoes,Fitness,North,178,52
+SwiftStep Running Shoes,Fitness,South,112,52
+SwiftStep Running Shoes,Fitness,East,200,52
+SwiftStep Running Shoes,Fitness,West,136,52
+SwiftStep Running Shoes,Fitness,Central,42,52
+PureSip Water Bottle,Outdoor,North,71,93
+PureSip Water Bottle,Outdoor,South,231,93
+PureSip Water Bottle,Outdoor,East,227,93
+PureSip Water Bottle,Outdoor,West,219,93
+PureSip Water Bottle,Outdoor,Central,176,93
+ClearView Monitor Stand,Tech,North,134,37
+ClearView Monitor Stand,Tech,South,114,37
+ClearView Monitor Stand,Tech,East,74,37
+ClearView Monitor Stand,Tech,West,123,37
+ClearView Monitor Stand,Tech,Central,167,37
+CozyNest Throw Blanket,Home,North,120,43
+CozyNest Throw Blanket,Home,South,176,43
+CozyNest Throw Blanket,Home,East,203,43
+CozyNest Throw Blanket,Home,West,27,43
+CozyNest Throw Blanket,Home,Central,144,43
+VoltDock Charging Station,Tech,North,103,81
+VoltDock Charging Station,Tech,South,222,81
+VoltDock Charging Station,Tech,East,44,81
+VoltDock Charging Station,Tech,West,142,81
+VoltDock Charging Station,Tech,Central,220,81
+GripMax Dumbbell Set,Fitness,North,99,30
+GripMax Dumbbell Set,Fitness,South,135,30
+GripMax Dumbbell Set,Fitness,East,111,30
+GripMax Dumbbell Set,Fitness,West,132,30
+GripMax Dumbbell Set,Fitness,Central,116,30

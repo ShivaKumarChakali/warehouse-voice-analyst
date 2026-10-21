@@ -1,0 +1,541 @@
+month,product,category,region,units,revenue
+2026-01,Aurora Wireless Headphones,Audio,North,503,45264.97
+2026-01,Aurora Wireless Headphones,Audio,South,378,34016.22
+2026-01,Aurora Wireless Headphones,Audio,East,372,33476.28
+2026-01,Aurora Wireless Headphones,Audio,West,423,38065.77
+2026-01,Aurora Wireless Headphones,Audio,Central,359,32306.41
+2026-02,Aurora Wireless Headphones,Audio,North,523,47064.77
+2026-02,Aurora Wireless Headphones,Audio,South,507,45624.93
+2026-02,Aurora Wireless Headphones,Audio,East,360,32396.4
+2026-02,Aurora Wireless Headphones,Audio,West,464,41755.36
+2026-02,Aurora Wireless Headphones,Audio,Central,297,26727.03
+2026-03,Aurora Wireless Headphones,Audio,North,468,42115.32
+2026-03,Aurora Wireless Headphones,Audio,South,468,42115.32
+2026-03,Aurora Wireless Headphones,Audio,East,362,32576.38
+2026-03,Aurora Wireless Headphones,Audio,West,445,40045.55
+2026-03,Aurora Wireless Headphones,Audio,Central,372,33476.28
+2026-04,Aurora Wireless Headphones,Audio,North,533,47964.67
+2026-04,Aurora Wireless Headphones,Audio,South,440,39595.6
+2026-04,Aurora Wireless Headphones,Audio,East,446,40135.54
+2026-04,Aurora Wireless Headphones,Audio,West,550,49494.5
+2026-04,Aurora Wireless Headphones,Audio,Central,312,28076.88
+2026-05,Aurora Wireless Headphones,Audio,North,590,53094.1
+2026-05,Aurora Wireless Headphones,Audio,South,523,47064.77
+2026-05,Aurora Wireless Headphones,Audio,East,425,38245.75
+2026-05,Aurora Wireless Headphones,Audio,West,463,41665.37
+2026-05,Aurora Wireless Headphones,Audio,Central,427,38425.73
+2026-06,Aurora Wireless Headphones,Audio,North,591,53184.09
+2026-06,Aurora Wireless Headphones,Audio,South,498,44815.02
+2026-06,Aurora Wireless Headphones,Audio,East,451,40585.49
+2026-06,Aurora Wireless Headphones,Audio,West,657,59123.43
+2026-06,Aurora Wireless Headphones,Audio,Central,446,40135.54
+2026-07,Aurora Wireless Headphones,Audio,North,697,62723.03
+2026-07,Aurora Wireless Headphones,Audio,South,622,55973.78
+2026-07,Aurora Wireless Headphones,Audio,East,533,47964.67
+2026-07,Aurora Wireless Headphones,Audio,West,697,62723.03
+2026-07,Aurora Wireless Headphones,Audio,Central,427,38425.73
+2026-08,Aurora Wireless Headphones,Audio,North,593,53364.07
+2026-08,Aurora Wireless Headphones,Audio,South,586,52734.14
+2026-08,Aurora Wireless Headphones,Audio,East,499,44905.01
+2026-08,Aurora Wireless Headphones,Audio,West,619,55703.81
+2026-08,Aurora Wireless Headphones,Audio,Central,415,37345.85
+2026-09,Aurora Wireless Headphones,Audio,North,635,57143.65
+2026-09,Aurora Wireless Headphones,Audio,South,472,42475.28
+2026-09,Aurora Wireless Headphones,Audio,East,454,40855.46
+2026-09,Aurora Wireless Headphones,Audio,West,536,48234.64
+2026-09,Aurora Wireless Headphones,Audio,Central,364,32756.36
+2026-01,TrailBlazer Backpack,Outdoor,North,275,17737.5
+2026-01,TrailBlazer Backpack,Outdoor,South,240,15480.0
+2026-01,TrailBlazer Backpack,Outdoor,East,230,14835.0
+2026-01,TrailBlazer Backpack,Outdoor,West,297,19156.5
+2026-01,TrailBlazer Backpack,Outdoor,Central,199,12835.5
+2026-02,TrailBlazer Backpack,Outdoor,North,295,19027.5
+2026-02,TrailBlazer Backpack,Outdoor,South,256,16512.0
+2026-02,TrailBlazer Backpack,Outdoor,East,236,15222.0
+2026-02,TrailBlazer Backpack,Outdoor,West,333,21478.5
+2026-02,TrailBlazer Backpack,Outdoor,Central,223,14383.5
+2026-03,TrailBlazer Backpack,Outdoor,North,327,21091.5
+2026-03,TrailBlazer Backpack,Outdoor,South,260,16770.0
+2026-03,TrailBlazer Backpack,Outdoor,East,279,17995.5
+2026-03,TrailBlazer Backpack,Outdoor,West,272,17544.0
+2026-03,TrailBlazer Backpack,Outdoor,Central,212,13674.0
+2026-04,TrailBlazer Backpack,Outdoor,North,373,24058.5
+2026-04,TrailBlazer Backpack,Outdoor,South,310,19995.0
+2026-04,TrailBlazer Backpack,Outdoor,East,273,17608.5
+2026-04,TrailBlazer Backpack,Outdoor,West,329,21220.5
+2026-04,TrailBlazer Backpack,Outdoor,Central,250,16125.0
+2026-05,TrailBlazer Backpack,Outdoor,North,362,23349.0
+2026-05,TrailBlazer Backpack,Outdoor,South,280,18060.0
+2026-05,TrailBlazer Backpack,Outdoor,East,237,15286.5
+2026-05,TrailBlazer Backpack,Outdoor,West,302,19479.0
+2026-05,TrailBlazer Backpack,Outdoor,Central,216,13932.0
+2026-06,TrailBlazer Backpack,Outdoor,North,351,22639.5
+2026-06,TrailBlazer Backpack,Outdoor,South,398,25671.0
+2026-06,TrailBlazer Backpack,Outdoor,East,354,22833.0
+2026-06,TrailBlazer Backpack,Outdoor,West,347,22381.5
+2026-06,TrailBlazer Backpack,Outdoor,Central,280,18060.0
+2026-07,TrailBlazer Backpack,Outdoor,North,382,24639.0
+2026-07,TrailBlazer Backpack,Outdoor,South,405,26122.5
+2026-07,TrailBlazer Backpack,Outdoor,East,322,20769.0
+2026-07,TrailBlazer Backpack,Outdoor,West,351,22639.5
+2026-07,TrailBlazer Backpack,Outdoor,Central,253,16318.5
+2026-08,TrailBlazer Backpack,Outdoor,North,368,23736.0
+2026-08,TrailBlazer Backpack,Outdoor,South,306,19737.0
+2026-08,TrailBlazer Backpack,Outdoor,East,306,19737.0
+2026-08,TrailBlazer Backpack,Outdoor,West,387,24961.5
+2026-08,TrailBlazer Backpack,Outdoor,Central,244,15738.0
+2026-09,TrailBlazer Backpack,Outdoor,North,339,21865.5
+2026-09,TrailBlazer Backpack,Outdoor,South,389,25090.5
+2026-09,TrailBlazer Backpack,Outdoor,East,307,19801.5
+2026-09,TrailBlazer Backpack,Outdoor,West,311,20059.5
+2026-09,TrailBlazer Backpack,Outdoor,Central,222,14319.0
+2026-01,ChefPro Knife Set,Kitchen,North,182,21658.0
+2026-01,ChefPro Knife Set,Kitchen,South,196,23324.0
+2026-01,ChefPro Knife Set,Kitchen,East,185,22015.0
+2026-01,ChefPro Knife Set,Kitchen,West,193,22967.0
+2026-01,ChefPro Knife Set,Kitchen,Central,125,14875.0
+2026-02,ChefPro Knife Set,Kitchen,North,205,24395.0
+2026-02,ChefPro Knife Set,Kitchen,South,223,26537.0
+2026-02,ChefPro Knife Set,Kitchen,East,177,21063.0
+2026-02,ChefPro Knife Set,Kitchen,West,232,27608.0
+2026-02,ChefPro Knife Set,Kitchen,Central,164,19516.0
+2026-03,ChefPro Knife Set,Kitchen,North,187,22253.0
+2026-03,ChefPro Knife Set,Kitchen,South,213,25347.0
+2026-03,ChefPro Knife Set,Kitchen,East,191,22729.0
+2026-03,ChefPro Knife Set,Kitchen,West,212,25228.0
+2026-03,ChefPro Knife Set,Kitchen,Central,141,16779.0
+2026-04,ChefPro Knife Set,Kitchen,North,235,27965.0
+2026-04,ChefPro Knife Set,Kitchen,South,182,21658.0
+2026-04,ChefPro Knife Set,Kitchen,East,182,21658.0
+2026-04,ChefPro Knife Set,Kitchen,West,212,25228.0
+2026-04,ChefPro Knife Set,Kitchen,Central,178,21182.0
+2026-05,ChefPro Knife Set,Kitchen,North,257,30583.0
+2026-05,ChefPro Knife Set,Kitchen,South,196,23324.0
+2026-05,ChefPro Knife Set,Kitchen,East,191,22729.0
+2026-05,ChefPro Knife Set,Kitchen,West,200,23800.0
+2026-05,ChefPro Knife Set,Kitchen,Central,181,21539.0
+2026-06,ChefPro Knife Set,Kitchen,North,296,35224.0
+2026-06,ChefPro Knife Set,Kitchen,South,228,27132.0
+2026-06,ChefPro Knife Set,Kitchen,East,229,27251.0
+2026-06,ChefPro Knife Set,Kitchen,West,263,31297.0
+2026-06,ChefPro Knife Set,Kitchen,Central,166,19754.0
+2026-07,ChefPro Knife Set,Kitchen,North,295,35105.0
+2026-07,ChefPro Knife Set,Kitchen,South,252,29988.0
+2026-07,ChefPro Knife Set,Kitchen,East,244,29036.0
+2026-07,ChefPro Knife Set,Kitchen,West,264,31416.0
+2026-07,ChefPro Knife Set,Kitchen,Central,161,19159.0
+2026-08,ChefPro Knife Set,Kitchen,North,237,28203.0
+2026-08,ChefPro Knife Set,Kitchen,South,195,23205.0
+2026-08,ChefPro Knife Set,Kitchen,East,233,27727.0
+2026-08,ChefPro Knife Set,Kitchen,West,266,31654.0
+2026-08,ChefPro Knife Set,Kitchen,Central,191,22729.0
+2026-09,ChefPro Knife Set,Kitchen,North,241,28679.0
+2026-09,ChefPro Knife Set,Kitchen,South,203,24157.0
+2026-09,ChefPro Knife Set,Kitchen,East,236,28084.0
+2026-09,ChefPro Knife Set,Kitchen,West,278,33082.0
+2026-09,ChefPro Knife Set,Kitchen,Central,156,18564.0
+2026-01,LumaDesk Lamp,Home,North,355,15261.45
+2026-01,LumaDesk Lamp,Home,South,283,12166.17
+2026-01,LumaDesk Lamp,Home,East,317,13627.83
+2026-01,LumaDesk Lamp,Home,West,368,15820.32
+2026-01,LumaDesk Lamp,Home,Central,220,9457.8
+2026-02,LumaDesk Lamp,Home,North,364,15648.36
+2026-02,LumaDesk Lamp,Home,South,340,14616.6
+2026-02,LumaDesk Lamp,Home,East,281,12080.19
+2026-02,LumaDesk Lamp,Home,West,390,16766.1
+2026-02,LumaDesk Lamp,Home,Central,249,10704.51
+2026-03,LumaDesk Lamp,Home,North,345,14831.55
+2026-03,LumaDesk Lamp,Home,South,349,15003.51
+2026-03,LumaDesk Lamp,Home,East,333,14315.67
+2026-03,LumaDesk Lamp,Home,West,329,14143.71
+2026-03,LumaDesk Lamp,Home,Central,248,10661.52
+2026-04,LumaDesk Lamp,Home,North,446,19173.54
+2026-04,LumaDesk Lamp,Home,South,370,15906.3
+2026-04,LumaDesk Lamp,Home,East,315,13541.85
+2026-04,LumaDesk Lamp,Home,West,373,16035.27
+2026-04,LumaDesk Lamp,Home,Central,239,10274.61
+2026-05,LumaDesk Lamp,Home,North,366,15734.34
+2026-05,LumaDesk Lamp,Home,South,346,14874.54
+2026-05,LumaDesk Lamp,Home,East,338,14530.62
+2026-05,LumaDesk Lamp,Home,West,350,15046.5
+2026-05,LumaDesk Lamp,Home,Central,254,10919.46
+2026-06,LumaDesk Lamp,Home,North,400,17196.0
+2026-06,LumaDesk Lamp,Home,South,435,18700.65
+2026-06,LumaDesk Lamp,Home,East,348,14960.52
+2026-06,LumaDesk Lamp,Home,West,492,21151.08
+2026-06,LumaDesk Lamp,Home,Central,353,15175.47
+2026-07,LumaDesk Lamp,Home,North,410,17625.9
+2026-07,LumaDesk Lamp,Home,South,396,17024.04
+2026-07,LumaDesk Lamp,Home,East,408,17539.92
+2026-07,LumaDesk Lamp,Home,West,412,17711.88
+2026-07,LumaDesk Lamp,Home,Central,291,12510.09
+2026-08,LumaDesk Lamp,Home,North,487,20936.13
+2026-08,LumaDesk Lamp,Home,South,402,17281.98
+2026-08,LumaDesk Lamp,Home,East,353,15175.47
+2026-08,LumaDesk Lamp,Home,West,447,19216.53
+2026-08,LumaDesk Lamp,Home,Central,327,14057.73
+2026-09,LumaDesk Lamp,Home,North,401,17238.99
+2026-09,LumaDesk Lamp,Home,South,354,15218.46
+2026-09,LumaDesk Lamp,Home,East,357,15347.43
+2026-09,LumaDesk Lamp,Home,West,413,17754.87
+2026-09,LumaDesk Lamp,Home,Central,304,13068.96
+2026-01,Vortex Blender Pro,Kitchen,North,184,27598.16
+2026-01,Vortex Blender Pro,Kitchen,South,165,24748.35
+2026-01,Vortex Blender Pro,Kitchen,East,163,24448.37
+2026-01,Vortex Blender Pro,Kitchen,West,145,21748.55
+2026-01,Vortex Blender Pro,Kitchen,Central,116,17398.84
+2026-02,Vortex Blender Pro,Kitchen,North,169,25348.31
+2026-02,Vortex Blender Pro,Kitchen,South,179,26848.21
+2026-02,Vortex Blender Pro,Kitchen,East,135,20248.65
+2026-02,Vortex Blender Pro,Kitchen,West,154,23098.46
+2026-02,Vortex Blender Pro,Kitchen,Central,121,18148.79
+2026-03,Vortex Blender Pro,Kitchen,North,178,26698.22
+2026-03,Vortex Blender Pro,Kitchen,South,155,23248.45
+2026-03,Vortex Blender Pro,Kitchen,East,139,20848.61
+2026-03,Vortex Blender Pro,Kitchen,West,197,29548.03
+2026-03,Vortex Blender Pro,Kitchen,Central,125,18748.75
+2026-04,Vortex Blender Pro,Kitchen,North,208,31197.92
+2026-04,Vortex Blender Pro,Kitchen,South,174,26098.26
+2026-04,Vortex Blender Pro,Kitchen,East,134,20098.66
+2026-04,Vortex Blender Pro,Kitchen,West,206,30897.94
+2026-04,Vortex Blender Pro,Kitchen,Central,143,21448.57
+2026-05,Vortex Blender Pro,Kitchen,North,220,32997.8
+2026-05,Vortex Blender Pro,Kitchen,South,198,29698.02
+2026-05,Vortex Blender Pro,Kitchen,East,176,26398.24
+2026-05,Vortex Blender Pro,Kitchen,West,166,24898.34
+2026-05,Vortex Blender Pro,Kitchen,Central,133,19948.67
+2026-06,Vortex Blender Pro,Kitchen,North,203,30447.97
+2026-06,Vortex Blender Pro,Kitchen,South,196,29398.04
+2026-06,Vortex Blender Pro,Kitchen,East,159,23848.41
+2026-06,Vortex Blender Pro,Kitchen,West,204,30597.96
+2026-06,Vortex Blender Pro,Kitchen,Central,177,26548.23
+2026-07,Vortex Blender Pro,Kitchen,North,211,31647.89
+2026-07,Vortex Blender Pro,Kitchen,South,225,33747.75
+2026-07,Vortex Blender Pro,Kitchen,East,185,27748.15
+2026-07,Vortex Blender Pro,Kitchen,West,213,31947.87
+2026-07,Vortex Blender Pro,Kitchen,Central,180,26998.2
+2026-08,Vortex Blender Pro,Kitchen,North,239,35847.61
+2026-08,Vortex Blender Pro,Kitchen,South,193,28948.07
+2026-08,Vortex Blender Pro,Kitchen,East,183,27448.17
+2026-08,Vortex Blender Pro,Kitchen,West,178,26698.22
+2026-08,Vortex Blender Pro,Kitchen,Central,136,20398.64
+2026-09,Vortex Blender Pro,Kitchen,North,243,36447.57
+2026-09,Vortex Blender Pro,Kitchen,South,199,29848.01
+2026-09,Vortex Blender Pro,Kitchen,East,178,26698.22
+2026-09,Vortex Blender Pro,Kitchen,West,219,32847.81
+2026-09,Vortex Blender Pro,Kitchen,Central,129,19348.71
+2026-01,FlexFit Yoga Mat,Fitness,North,448,13435.52
+2026-01,FlexFit Yoga Mat,Fitness,South,399,11966.01
+2026-01,FlexFit Yoga Mat,Fitness,East,399,11966.01
+2026-01,FlexFit Yoga Mat,Fitness,West,375,11246.25
+2026-01,FlexFit Yoga Mat,Fitness,Central,346,10376.54
+2026-02,FlexFit Yoga Mat,Fitness,North,393,11786.07
+2026-02,FlexFit Yoga Mat,Fitness,South,372,11156.28
+2026-02,FlexFit Yoga Mat,Fitness,East,382,11456.18
+2026-02,FlexFit Yoga Mat,Fitness,West,453,13585.47
+2026-02,FlexFit Yoga Mat,Fitness,Central,288,8637.12
+2026-03,FlexFit Yoga Mat,Fitness,North,410,12295.9
+2026-03,FlexFit Yoga Mat,Fitness,South,472,14155.28
+2026-03,FlexFit Yoga Mat,Fitness,East,353,10586.47
+2026-03,FlexFit Yoga Mat,Fitness,West,455,13645.45
+2026-03,FlexFit Yoga Mat,Fitness,Central,333,9986.67
+2026-04,FlexFit Yoga Mat,Fitness,North,464,13915.36
+2026-04,FlexFit Yoga Mat,Fitness,South,445,13345.55
+2026-04,FlexFit Yoga Mat,Fitness,East,396,11876.04
+2026-04,FlexFit Yoga Mat,Fitness,West,515,15444.85
+2026-04,FlexFit Yoga Mat,Fitness,Central,301,9026.99
+2026-05,FlexFit Yoga Mat,Fitness,North,521,15624.79
+2026-05,FlexFit Yoga Mat,Fitness,South,411,12325.89
+2026-05,FlexFit Yoga Mat,Fitness,East,391,11726.09
+2026-05,FlexFit Yoga Mat,Fitness,West,492,14755.08
+2026-05,FlexFit Yoga Mat,Fitness,Central,320,9596.8
+2026-06,FlexFit Yoga Mat,Fitness,North,531,15924.69
+2026-06,FlexFit Yoga Mat,Fitness,South,552,16554.48
+2026-06,FlexFit Yoga Mat,Fitness,East,405,12145.95
+2026-06,FlexFit Yoga Mat,Fitness,West,531,15924.69
+2026-06,FlexFit Yoga Mat,Fitness,Central,450,13495.5
+2026-07,FlexFit Yoga Mat,Fitness,North,663,19883.37
+2026-07,FlexFit Yoga Mat,Fitness,South,459,13765.41
+2026-07,FlexFit Yoga Mat,Fitness,East,436,13075.64
+2026-07,FlexFit Yoga Mat,Fitness,West,513,15384.87
+2026-07,FlexFit Yoga Mat,Fitness,Central,453,13585.47
+2026-08,FlexFit Yoga Mat,Fitness,North,589,17664.11
+2026-08,FlexFit Yoga Mat,Fitness,South,537,16104.63
+2026-08,FlexFit Yoga Mat,Fitness,East,419,12565.81
+2026-08,FlexFit Yoga Mat,Fitness,West,453,13585.47
+2026-08,FlexFit Yoga Mat,Fitness,Central,404,12115.96
+2026-09,FlexFit Yoga Mat,Fitness,North,574,17214.26
+2026-09,FlexFit Yoga Mat,Fitness,South,511,15324.89
+2026-09,FlexFit Yoga Mat,Fitness,East,513,15384.87
+2026-09,FlexFit Yoga Mat,Fitness,West,542,16254.58
+2026-09,FlexFit Yoga Mat,Fitness,Central,321,9626.79
+2026-01,SwiftStep Running Shoes,Fitness,North,365,36496.35
+2026-01,SwiftStep Running Shoes,Fitness,South,286,28597.14
+2026-01,SwiftStep Running Shoes,Fitness,East,289,28897.11
+2026-01,SwiftStep Running Shoes,Fitness,West,361,36096.39
+2026-01,SwiftStep Running Shoes,Fitness,Central,206,20597.94
+2026-02,SwiftStep Running Shoes,Fitness,North,303,30296.97
+2026-02,SwiftStep Running Shoes,Fitness,South,276,27597.24
+2026-02,SwiftStep Running Shoes,Fitness,East,288,28797.12
+2026-02,SwiftStep Running Shoes,Fitness,West,306,30596.94
+2026-02,SwiftStep Running Shoes,Fitness,Central,246,24597.54
+2026-03,SwiftStep Running Shoes,Fitness,North,376,37596.24
+2026-03,SwiftStep Running Shoes,Fitness,South,294,29397.06
+2026-03,SwiftStep Running Shoes,Fitness,East,303,30296.97
+2026-03,SwiftStep Running Shoes,Fitness,West,314,31396.86
+2026-03,SwiftStep Running Shoes,Fitness,Central,245,24497.55
+2026-04,SwiftStep Running Shoes,Fitness,North,407,40695.93
+2026-04,SwiftStep Running Shoes,Fitness,South,366,36596.34
+2026-04,SwiftStep Running Shoes,Fitness,East,263,26297.37
+2026-04,SwiftStep Running Shoes,Fitness,West,339,33896.61
+2026-04,SwiftStep Running Shoes,Fitness,Central,235,23497.65
+2026-05,SwiftStep Running Shoes,Fitness,North,317,31696.83
+2026-05,SwiftStep Running Shoes,Fitness,South,368,36796.32
+2026-05,SwiftStep Running Shoes,Fitness,East,321,32096.79
+2026-05,SwiftStep Running Shoes,Fitness,West,331,33096.69
+2026-05,SwiftStep Running Shoes,Fitness,Central,278,27797.22
+2026-06,SwiftStep Running Shoes,Fitness,North,436,43595.64
+2026-06,SwiftStep Running Shoes,Fitness,South,383,38296.17
+2026-06,SwiftStep Running Shoes,Fitness,East,302,30196.98
+2026-06,SwiftStep Running Shoes,Fitness,West,358,35796.42
+2026-06,SwiftStep Running Shoes,Fitness,Central,333,33296.67
+2026-07,SwiftStep Running Shoes,Fitness,North,494,49395.06
+2026-07,SwiftStep Running Shoes,Fitness,South,407,40695.93
+2026-07,SwiftStep Running Shoes,Fitness,East,400,39996.0
+2026-07,SwiftStep Running Shoes,Fitness,West,432,43195.68
+2026-07,SwiftStep Running Shoes,Fitness,Central,274,27397.26
+2026-08,SwiftStep Running Shoes,Fitness,North,358,35796.42
+2026-08,SwiftStep Running Shoes,Fitness,South,347,34696.53
+2026-08,SwiftStep Running Shoes,Fitness,East,373,37296.27
+2026-08,SwiftStep Running Shoes,Fitness,West,420,41995.8
+2026-08,SwiftStep Running Shoes,Fitness,Central,311,31096.89
+2026-09,SwiftStep Running Shoes,Fitness,North,463,46295.37
+2026-09,SwiftStep Running Shoes,Fitness,South,344,34396.56
+2026-09,SwiftStep Running Shoes,Fitness,East,315,31496.85
+2026-09,SwiftStep Running Shoes,Fitness,West,348,34796.52
+2026-09,SwiftStep Running Shoes,Fitness,Central,311,31096.89
+2026-01,PureSip Water Bottle,Outdoor,North,666,13313.34
+2026-01,PureSip Water Bottle,Outdoor,South,530,10594.7
+2026-01,PureSip Water Bottle,Outdoor,East,511,10214.89
+2026-01,PureSip Water Bottle,Outdoor,West,512,10234.88
+2026-01,PureSip Water Bottle,Outdoor,Central,469,9375.31
+2026-02,PureSip Water Bottle,Outdoor,North,683,13653.17
+2026-02,PureSip Water Bottle,Outdoor,South,642,12833.58
+2026-02,PureSip Water Bottle,Outdoor,East,556,11114.44
+2026-02,PureSip Water Bottle,Outdoor,West,656,13113.44
+2026-02,PureSip Water Bottle,Outdoor,Central,367,7336.33
+2026-03,PureSip Water Bottle,Outdoor,North,678,13553.22
+2026-03,PureSip Water Bottle,Outdoor,South,549,10974.51
+2026-03,PureSip Water Bottle,Outdoor,East,591,11814.09
+2026-03,PureSip Water Bottle,Outdoor,West,661,13213.39
+2026-03,PureSip Water Bottle,Outdoor,Central,489,9775.11
+2026-04,PureSip Water Bottle,Outdoor,North,712,14232.88
+2026-04,PureSip Water Bottle,Outdoor,South,553,11054.47
+2026-04,PureSip Water Bottle,Outdoor,East,584,11674.16
+2026-04,PureSip Water Bottle,Outdoor,West,550,10994.5
+2026-04,PureSip Water Bottle,Outdoor,Central,504,10074.96
+2026-05,PureSip Water Bottle,Outdoor,North,741,14812.59
+2026-05,PureSip Water Bottle,Outdoor,South,560,11194.4
+2026-05,PureSip Water Bottle,Outdoor,East,605,12093.95
+2026-05,PureSip Water Bottle,Outdoor,West,633,12653.67
+2026-05,PureSip Water Bottle,Outdoor,Central,438,8755.62
+2026-06,PureSip Water Bottle,Outdoor,North,838,16751.62
+2026-06,PureSip Water Bottle,Outdoor,South,645,12893.55
+2026-06,PureSip Water Bottle,Outdoor,East,545,10894.55
+2026-06,PureSip Water Bottle,Outdoor,West,668,13353.32
+2026-06,PureSip Water Bottle,Outdoor,Central,508,10154.92
+2026-07,PureSip Water Bottle,Outdoor,North,876,17511.24
+2026-07,PureSip Water Bottle,Outdoor,South,822,16431.78
+2026-07,PureSip Water Bottle,Outdoor,East,609,12173.91
+2026-07,PureSip Water Bottle,Outdoor,West,788,15752.12
+2026-07,PureSip Water Bottle,Outdoor,Central,533,10654.67
+2026-08,PureSip Water Bottle,Outdoor,North,828,16551.72
+2026-08,PureSip Water Bottle,Outdoor,South,667,13333.33
+2026-08,PureSip Water Bottle,Outdoor,East,676,13513.24
+2026-08,PureSip Water Bottle,Outdoor,West,612,12233.88
+2026-08,PureSip Water Bottle,Outdoor,Central,574,11474.26
+2026-09,PureSip Water Bottle,Outdoor,North,670,13393.3
+2026-09,PureSip Water Bottle,Outdoor,South,770,15392.3
+2026-09,PureSip Water Bottle,Outdoor,East,569,11374.31
+2026-09,PureSip Water Bottle,Outdoor,West,625,12493.75
+2026-09,PureSip Water Bottle,Outdoor,Central,505,10094.95
+2026-01,ClearView Monitor Stand,Tech,North,258,14187.42
+2026-01,ClearView Monitor Stand,Tech,South,208,11437.92
+2026-01,ClearView Monitor Stand,Tech,East,205,11272.95
+2026-01,ClearView Monitor Stand,Tech,West,231,12702.69
+2026-01,ClearView Monitor Stand,Tech,Central,162,8908.38
+2026-02,ClearView Monitor Stand,Tech,North,254,13967.46
+2026-02,ClearView Monitor Stand,Tech,South,210,11547.9
+2026-02,ClearView Monitor Stand,Tech,East,218,11987.82
+2026-02,ClearView Monitor Stand,Tech,West,202,11107.98
+2026-02,ClearView Monitor Stand,Tech,Central,195,10723.05
+2026-03,ClearView Monitor Stand,Tech,North,258,14187.42
+2026-03,ClearView Monitor Stand,Tech,South,249,13692.51
+2026-03,ClearView Monitor Stand,Tech,East,226,12427.74
+2026-03,ClearView Monitor Stand,Tech,West,257,14132.43
+2026-03,ClearView Monitor Stand,Tech,Central,170,9348.3
+2026-04,ClearView Monitor Stand,Tech,North,229,12592.71
+2026-04,ClearView Monitor Stand,Tech,South,252,13857.48
+2026-04,ClearView Monitor Stand,Tech,East,206,11327.94
+2026-04,ClearView Monitor Stand,Tech,West,237,13032.63
+2026-04,ClearView Monitor Stand,Tech,Central,202,11107.98
+2026-05,ClearView Monitor Stand,Tech,North,288,15837.12
+2026-05,ClearView Monitor Stand,Tech,South,232,12757.68
+2026-05,ClearView Monitor Stand,Tech,East,210,11547.9
+2026-05,ClearView Monitor Stand,Tech,West,251,13802.49
+2026-05,ClearView Monitor Stand,Tech,Central,182,10008.18
+2026-06,ClearView Monitor Stand,Tech,North,291,16002.09
+2026-06,ClearView Monitor Stand,Tech,South,252,13857.48
+2026-06,ClearView Monitor Stand,Tech,East,250,13747.5
+2026-06,ClearView Monitor Stand,Tech,West,336,18476.64
+2026-06,ClearView Monitor Stand,Tech,Central,227,12482.73
+2026-07,ClearView Monitor Stand,Tech,North,357,19631.43
+2026-07,ClearView Monitor Stand,Tech,South,301,16551.99
+2026-07,ClearView Monitor Stand,Tech,East,247,13582.53
+2026-07,ClearView Monitor Stand,Tech,West,309,16991.91
+2026-07,ClearView Monitor Stand,Tech,Central,188,10338.12
+2026-08,ClearView Monitor Stand,Tech,North,273,15012.27
+2026-08,ClearView Monitor Stand,Tech,South,261,14352.39
+2026-08,ClearView Monitor Stand,Tech,East,247,13582.53
+2026-08,ClearView Monitor Stand,Tech,West,292,16057.08
+2026-08,ClearView Monitor Stand,Tech,Central,201,11052.99
+2026-09,ClearView Monitor Stand,Tech,North,294,16167.06
+2026-09,ClearView Monitor Stand,Tech,South,249,13692.51
+2026-09,ClearView Monitor Stand,Tech,East,245,13472.55
+2026-09,ClearView Monitor Stand,Tech,West,320,17596.8
+2026-09,ClearView Monitor Stand,Tech,Central,226,12427.74
+2026-01,CozyNest Throw Blanket,Home,North,248,9917.52
+2026-01,CozyNest Throw Blanket,Home,South,220,8797.8
+2026-01,CozyNest Throw Blanket,Home,East,229,9157.71
+2026-01,CozyNest Throw Blanket,Home,West,274,10957.26
+2026-01,CozyNest Throw Blanket,Home,Central,182,7278.18
+2026-02,CozyNest Throw Blanket,Home,North,311,12436.89
+2026-02,CozyNest Throw Blanket,Home,South,279,11157.21
+2026-02,CozyNest Throw Blanket,Home,East,247,9877.53
+2026-02,CozyNest Throw Blanket,Home,West,249,9957.51
+2026-02,CozyNest Throw Blanket,Home,Central,179,7158.21
+2026-03,CozyNest Throw Blanket,Home,North,250,9997.5
+2026-03,CozyNest Throw Blanket,Home,South,246,9837.54
+2026-03,CozyNest Throw Blanket,Home,East,239,9557.61
+2026-03,CozyNest Throw Blanket,Home,West,309,12356.91
+2026-03,CozyNest Throw Blanket,Home,Central,177,7078.23
+2026-04,CozyNest Throw Blanket,Home,North,293,11717.07
+2026-04,CozyNest Throw Blanket,Home,South,285,11397.15
+2026-04,CozyNest Throw Blanket,Home,East,225,8997.75
+2026-04,CozyNest Throw Blanket,Home,West,304,12156.96
+2026-04,CozyNest Throw Blanket,Home,Central,208,8317.92
+2026-05,CozyNest Throw Blanket,Home,North,285,11397.15
+2026-05,CozyNest Throw Blanket,Home,South,295,11797.05
+2026-05,CozyNest Throw Blanket,Home,East,217,8677.83
+2026-05,CozyNest Throw Blanket,Home,West,317,12676.83
+2026-05,CozyNest Throw Blanket,Home,Central,232,9277.68
+2026-06,CozyNest Throw Blanket,Home,North,313,12516.87
+2026-06,CozyNest Throw Blanket,Home,South,317,12676.83
+2026-06,CozyNest Throw Blanket,Home,East,265,10597.35
+2026-06,CozyNest Throw Blanket,Home,West,386,15436.14
+2026-06,CozyNest Throw Blanket,Home,Central,248,9917.52
+2026-07,CozyNest Throw Blanket,Home,North,315,12596.85
+2026-07,CozyNest Throw Blanket,Home,South,307,12276.93
+2026-07,CozyNest Throw Blanket,Home,East,332,13276.68
+2026-07,CozyNest Throw Blanket,Home,West,344,13756.56
+2026-07,CozyNest Throw Blanket,Home,Central,276,11037.24
+2026-08,CozyNest Throw Blanket,Home,North,350,13996.5
+2026-08,CozyNest Throw Blanket,Home,South,349,13956.51
+2026-08,CozyNest Throw Blanket,Home,East,283,11317.17
+2026-08,CozyNest Throw Blanket,Home,West,362,14476.38
+2026-08,CozyNest Throw Blanket,Home,Central,259,10357.41
+2026-09,CozyNest Throw Blanket,Home,North,353,14116.47
+2026-09,CozyNest Throw Blanket,Home,South,333,13316.67
+2026-09,CozyNest Throw Blanket,Home,East,283,11317.17
+2026-09,CozyNest Throw Blanket,Home,West,359,14356.41
+2026-09,CozyNest Throw Blanket,Home,Central,241,9637.59
+2026-01,VoltDock Charging Station,Tech,North,579,20259.21
+2026-01,VoltDock Charging Station,Tech,South,507,17739.93
+2026-01,VoltDock Charging Station,Tech,East,424,14835.76
+2026-01,VoltDock Charging Station,Tech,West,459,16060.41
+2026-01,VoltDock Charging Station,Tech,Central,332,11616.68
+2026-02,VoltDock Charging Station,Tech,North,555,19419.45
+2026-02,VoltDock Charging Station,Tech,South,525,18369.75
+2026-02,VoltDock Charging Station,Tech,East,443,15500.57
+2026-02,VoltDock Charging Station,Tech,West,529,18509.71
+2026-02,VoltDock Charging Station,Tech,Central,345,12071.55
+2026-03,VoltDock Charging Station,Tech,North,479,16760.21
+2026-03,VoltDock Charging Station,Tech,South,468,16375.32
+2026-03,VoltDock Charging Station,Tech,East,422,14765.78
+2026-03,VoltDock Charging Station,Tech,West,496,17355.04
+2026-03,VoltDock Charging Station,Tech,Central,386,13506.14
+2026-04,VoltDock Charging Station,Tech,North,502,17564.98
+2026-04,VoltDock Charging Station,Tech,South,473,16550.27
+2026-04,VoltDock Charging Station,Tech,East,493,17250.07
+2026-04,VoltDock Charging Station,Tech,West,572,20014.28
+2026-04,VoltDock Charging Station,Tech,Central,341,11931.59
+2026-05,VoltDock Charging Station,Tech,North,563,19699.37
+2026-05,VoltDock Charging Station,Tech,South,535,18719.65
+2026-05,VoltDock Charging Station,Tech,East,466,16305.34
+2026-05,VoltDock Charging Station,Tech,West,505,17669.95
+2026-05,VoltDock Charging Station,Tech,Central,393,13751.07
+2026-06,VoltDock Charging Station,Tech,North,747,26137.53
+2026-06,VoltDock Charging Station,Tech,South,623,21798.77
+2026-06,VoltDock Charging Station,Tech,East,582,20364.18
+2026-06,VoltDock Charging Station,Tech,West,705,24667.95
+2026-06,VoltDock Charging Station,Tech,Central,500,17495.0
+2026-07,VoltDock Charging Station,Tech,North,659,23058.41
+2026-07,VoltDock Charging Station,Tech,South,531,18579.69
+2026-07,VoltDock Charging Station,Tech,East,539,18859.61
+2026-07,VoltDock Charging Station,Tech,West,703,24597.97
+2026-07,VoltDock Charging Station,Tech,Central,526,18404.74
+2026-08,VoltDock Charging Station,Tech,North,711,24877.89
+2026-08,VoltDock Charging Station,Tech,South,557,19489.43
+2026-08,VoltDock Charging Station,Tech,East,555,19419.45
+2026-08,VoltDock Charging Station,Tech,West,607,21238.93
+2026-08,VoltDock Charging Station,Tech,Central,449,15710.51
+2026-09,VoltDock Charging Station,Tech,North,587,20539.13
+2026-09,VoltDock Charging Station,Tech,South,536,18754.64
+2026-09,VoltDock Charging Station,Tech,East,519,18159.81
+2026-09,VoltDock Charging Station,Tech,West,527,18439.73
+2026-09,VoltDock Charging Station,Tech,Central,424,14835.76
+2026-01,GripMax Dumbbell Set,Fitness,North,206,16477.94
+2026-01,GripMax Dumbbell Set,Fitness,South,173,13838.27
+2026-01,GripMax Dumbbell Set,Fitness,East,145,11598.55
+2026-01,GripMax Dumbbell Set,Fitness,West,185,14798.15
+2026-01,GripMax Dumbbell Set,Fitness,Central,120,9598.8
+2026-02,GripMax Dumbbell Set,Fitness,North,208,16637.92
+2026-02,GripMax Dumbbell Set,Fitness,South,157,12558.43
+2026-02,GripMax Dumbbell Set,Fitness,East,161,12878.39
+2026-02,GripMax Dumbbell Set,Fitness,West,196,15678.04
+2026-02,GripMax Dumbbell Set,Fitness,Central,120,9598.8
+2026-03,GripMax Dumbbell Set,Fitness,North,216,17277.84
+2026-03,GripMax Dumbbell Set,Fitness,South,168,13438.32
+2026-03,GripMax Dumbbell Set,Fitness,East,169,13518.31
+2026-03,GripMax Dumbbell Set,Fitness,West,171,13678.29
+2026-03,GripMax Dumbbell Set,Fitness,Central,138,11038.62
+2026-04,GripMax Dumbbell Set,Fitness,North,194,15518.06
+2026-04,GripMax Dumbbell Set,Fitness,South,184,14718.16
+2026-04,GripMax Dumbbell Set,Fitness,East,189,15118.11
+2026-04,GripMax Dumbbell Set,Fitness,West,196,15678.04
+2026-04,GripMax Dumbbell Set,Fitness,Central,159,12718.41
+2026-05,GripMax Dumbbell Set,Fitness,North,240,19197.6
+2026-05,GripMax Dumbbell Set,Fitness,South,185,14798.15
+2026-05,GripMax Dumbbell Set,Fitness,East,158,12638.42
+2026-05,GripMax Dumbbell Set,Fitness,West,179,14318.21
+2026-05,GripMax Dumbbell Set,Fitness,Central,154,12318.46
+2026-06,GripMax Dumbbell Set,Fitness,North,289,23117.11
+2026-06,GripMax Dumbbell Set,Fitness,South,219,17517.81
+2026-06,GripMax Dumbbell Set,Fitness,East,217,17357.83
+2026-06,GripMax Dumbbell Set,Fitness,West,261,20877.39
+2026-06,GripMax Dumbbell Set,Fitness,Central,183,14638.17
+2026-07,GripMax Dumbbell Set,Fitness,North,278,22237.22
+2026-07,GripMax Dumbbell Set,Fitness,South,267,21357.33
+2026-07,GripMax Dumbbell Set,Fitness,East,194,15518.06
+2026-07,GripMax Dumbbell Set,Fitness,West,211,16877.89
+2026-07,GripMax Dumbbell Set,Fitness,Central,160,12798.4
+2026-08,GripMax Dumbbell Set,Fitness,North,210,16797.9
+2026-08,GripMax Dumbbell Set,Fitness,South,226,18077.74
+2026-08,GripMax Dumbbell Set,Fitness,East,199,15918.01
+2026-08,GripMax Dumbbell Set,Fitness,West,207,16557.93
+2026-08,GripMax Dumbbell Set,Fitness,Central,174,13918.26
+2026-09,GripMax Dumbbell Set,Fitness,North,261,20877.39
+2026-09,GripMax Dumbbell Set,Fitness,South,199,15918.01
+2026-09,GripMax Dumbbell Set,Fitness,East,206,16477.94
+2026-09,GripMax Dumbbell Set,Fitness,West,249,19917.51
+2026-09,GripMax Dumbbell Set,Fitness,Central,149,11918.51
